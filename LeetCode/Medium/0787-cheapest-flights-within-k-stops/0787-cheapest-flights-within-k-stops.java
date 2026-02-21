@@ -1,11 +1,10 @@
 class Solution {
     class Pair {
-        int node;
-        int price;
+        int node, w;
 
-        public Pair(int node, int price) {
+        public Pair(int node, int w) {
             this.node = node;
-            this.price = price;
+            this.w = w;
         }
     }
 
@@ -14,35 +13,36 @@ class Solution {
         for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
-        for (int i = 0; i < flights.length; i++) {
-            int a = flights[i][0];
-            int b = flights[i][1];
-            int w = flights[i][2];
-            adj.get(a).add(new Pair(b, w));
+        for (int[] f : flights) {
+            int u = f[0];
+            int v = f[1];
+            int w = f[2];
+            adj.get(u).add(new Pair(v, w));
         }
         int[] dist = new int[n];
         Arrays.fill(dist, Integer.MAX_VALUE);
         dist[src] = 0;
+
         Queue<int[]> q = new LinkedList<>();
         q.offer(new int[] { src, 0, 0 });
+
         while (!q.isEmpty()) {
             int[] curr = q.poll();
-            int node = curr[0];
-            int d = curr[1];
-            int st = curr[2];
-            if (st > k)
+            int u = curr[0];
+            int cost = curr[1];
+            int stops = curr[2];
+            if (stops > k)
                 continue;
-            for (Pair p : adj.get(node)) {
-                int nr = p.node;
-                int nd = p.price + d;
-                if (dist[nr] > nd) {
-                    dist[nr] = nd;
-                    q.offer(new int[] { nr, nd, st + 1 });
+
+            for (Pair p : adj.get(u)) {
+                int v = p.node;
+                int w = p.w;
+                if (dist[v] > cost + w) {
+                    dist[v] = cost + w;
+                    q.offer(new int[] { v, dist[v], stops + 1 });
                 }
             }
         }
-        if (dist[dst] == Integer.MAX_VALUE)
-            return -1;
-        return dist[dst];
+        return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];
     }
 }
