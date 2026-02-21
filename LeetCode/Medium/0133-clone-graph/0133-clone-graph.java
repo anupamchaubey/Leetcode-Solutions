@@ -19,24 +19,22 @@ class Node {
 */
 
 class Solution {
-    Map<Node, Node> visited= new HashMap<>();
-    public Node cloneGraph(Node node) {
-        if(node==null)return null;
-        Node newNode=dfs(node);
-        return newNode;
+    HashMap<Node, Node> clone = new HashMap<>();
 
+    public Node cloneGraph(Node node) {
+        if (node == null)
+            return node;
+        return dfs(node);
     }
-    Node dfs(Node node){
-        if(visited.containsKey(node)){
-            return visited.get(node);
-        }
-        Node newNode=new Node(node.val);
-        visited.put(node, newNode);
-        
-        for(Node i:node.neighbors){
-            newNode.neighbors.add(dfs(i));
+
+    Node dfs(Node node) {
+        if (clone.containsKey(node))
+            return clone.get(node);
+        Node newNode = new Node(node.val);
+        clone.put(node, newNode);
+        for (Node nei : node.neighbors) {
+            newNode.neighbors.add(dfs(nei));
         }
         return newNode;
-        
     }
 }
