@@ -28,12 +28,14 @@ class Solution {
     }
 
     Node dfs(Node node) {
+        Node newNode = new Node(node.val);
         if (clone.containsKey(node))
             return clone.get(node);
-        Node newNode = new Node(node.val);
-        clone.put(node, newNode);
-        for (Node nei : node.neighbors) {
-            newNode.neighbors.add(dfs(nei));
+        else {
+            clone.put(node, newNode);
+            for (Node nei : node.neighbors) {
+                newNode.neighbors.add(dfs(nei));
+            }
         }
         return newNode;
     }
