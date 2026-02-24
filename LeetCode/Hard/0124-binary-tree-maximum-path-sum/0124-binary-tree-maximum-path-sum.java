@@ -22,9 +22,9 @@ class Solution {
     int height(TreeNode r1){
         if(r1==null)return 0;
         int left=height(r1.left);
-        left=Math.max(left, 0);
         int right=height(r1.right);
-        right=Math.max(right, 0);
+        if(left<0)left=0;
+        if(right<0)right=0;
         max=Math.max(max, r1.val+left+right);
         return r1.val+Math.max(left, right);
     }
