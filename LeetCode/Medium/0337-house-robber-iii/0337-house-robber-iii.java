@@ -14,17 +14,8 @@
  * }
  */
 class Solution {
-    class Pair {
-        TreeNode node;
-        boolean flag;
 
-        public Pair(TreeNode node, boolean flag) {
-            this.node = node;
-            this.flag = flag;
-        }
-    }
-
-    HashMap<Pair, Long> memo = new HashMap<>();
+    HashMap<String, Long> memo = new HashMap<>();
 
     public int rob(TreeNode root) {
 
@@ -36,7 +27,7 @@ class Solution {
     long rec(TreeNode root, boolean prev) {
         if (root == null)
             return 0;
-        Pair key = new Pair(root, prev);
+        String key = root.hashCode() + "-" + prev;
         if (memo.containsKey(key))
             return memo.get(key);
         long ans;
