@@ -7,7 +7,7 @@ class Solution {
             if (people[i] + people[j] <= limit) {
                 i++;
                 j--;
-                ;
+                
                 boats++;
             } else {
                 j--;
