@@ -10,10 +10,7 @@ class Solution {
   
 
     void re(String tiles, int idx, String s, boolean[] visited) {
-        if (idx == tiles.length()) {
-            hs.add(s);
-            return;
-        }
+        
         for (int i = 0; i < tiles.length(); i++) {
             if (!visited[i]) {
                 visited[i] = true;
