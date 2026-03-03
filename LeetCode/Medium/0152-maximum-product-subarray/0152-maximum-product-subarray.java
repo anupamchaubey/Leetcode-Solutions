@@ -1,17 +1,16 @@
 class Solution {
-    // Dynamic Programming
     public int maxProduct(int[] nums) {
-        int maxSoFar=nums[0];
-        int minTillHere=nums[0];
-        int maxTillHere=nums[0];
+        int maxSubarray=nums[0];
+        int currMax=nums[0];
+        int currMin=nums[0];
         for(int i=1;i<nums.length;i++){
-            int curr=nums[i];
-            int tempMax=Math.max(curr, Math.max(curr*minTillHere, curr*maxTillHere));
-            int tempMin=Math.min(curr, Math.min(curr*minTillHere, curr*maxTillHere));
-            minTillHere=tempMin;
-            maxTillHere=tempMax;
-            maxSoFar=Math.max(maxSoFar, maxTillHere);
+            
+            int tempMax=Math.max(nums[i], Math.max(nums[i]*currMax, nums[i]*currMin));
+            int tempMin=Math.min(nums[i], Math.min(nums[i]*currMax, nums[i]*currMin));
+            currMax=tempMax;
+            currMin=tempMin;
+            maxSubarray=Math.max(maxSubarray, tempMax);
         }
-        return maxSoFar;
+        return maxSubarray;
     }
 }
