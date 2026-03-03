@@ -1,4 +1,5 @@
 class Solution {
+    //Dynamic Programming
     public int maxProduct(int[] nums) {
         int maxSubarray=nums[0];
         int currMax=nums[0];
