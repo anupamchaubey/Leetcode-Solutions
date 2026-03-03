@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0650-2-keys-keyboard/) | Medium |
