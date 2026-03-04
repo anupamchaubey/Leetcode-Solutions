@@ -8,7 +8,8 @@ A pow solution is possible.
 // maximum jitna 3 hoga utni bdi value
 
     public int integerBreak(int n) {
-        
+        if (n == 3)
+            return 2;
         if (n == 2)
             return 1;
         int ans = 1;
