@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0650-2-keys-keyboard/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
+| [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 ## Recursion
@@ -65,5 +66,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
