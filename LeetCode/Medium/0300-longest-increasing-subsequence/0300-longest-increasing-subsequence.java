@@ -3,18 +3,17 @@ class Solution {
         int n=nums.length;
         int[] tails=new int[n];
         int size=0;
-        for(int i=0;i<n;i++){
-            int l=0;
-            int r=size;
+        for(int v:nums){
+            int l=0, r=size;
             while(l<r){
                 int mid=(l+r)/2;
-                if(tails[mid]<nums[i]){
-                    l=mid+1;
-                }else{
+                if(tails[mid]>=v){
                     r=mid;
+                }else{
+                    l=mid+1;
                 }
             }
-            tails[l]=nums[i];
+            tails[l]=v;
             if(l==size)size++;
         }
         return size;
