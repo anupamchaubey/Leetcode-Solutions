@@ -1,6 +1,8 @@
 class Solution {
     public List<Integer> largestDivisibleSubset(int[] nums) {
         int n=nums.length;
+        Arrays.sort(nums);
+        
         int[] dp=new int[n];
         Arrays.fill(dp, 1);
 
