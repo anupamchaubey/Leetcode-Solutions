@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 <!---LeetCode Topics End-->
