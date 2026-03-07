@@ -6,17 +6,24 @@ class Solution {
                 return b[1] - a[1];
             return a[0] - b[0];
         });
-        int max = 1;
         int[] dp = new int[n];
         Arrays.fill(dp, 1);
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (envelopes[i][1] > envelopes[j][1]) {
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
+        int size = 0;
+        for (int[] v : envelopes) {
+            int l = 0, r = size;
+            while (l < r) {
+                int mid = (l + r) / 2;
+                if (dp[mid] < v[1]) {
+                    l = mid + 1;
+                } else {
+                    r = mid;
                 }
             }
-            max = Math.max(max, dp[i]);
+            dp[l] = v[1];
+            if (l == size)
+                size++;
         }
-        return max;
+
+        return size;
     }
 }
