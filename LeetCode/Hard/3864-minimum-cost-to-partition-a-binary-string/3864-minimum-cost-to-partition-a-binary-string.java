@@ -5,13 +5,13 @@ class Solution {
     }
 
     long rec(String s, int st, int en, int enc, int flat) {
-        if(st>=en)return s.charAt(st)=='1'? enc: flat;
+        
         int len=en-st+1;
         int count=sen(s, st, en);
         long store;
         if(count==0)store=flat;
-        else store=len*count*enc;
-
+        else store=(long)len*count*enc;
+        if(st == en) return store;
         if(len%2==0){
             int mid=(en+st)/2;
             long left=rec(s, st, mid, enc, flat);
