@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
