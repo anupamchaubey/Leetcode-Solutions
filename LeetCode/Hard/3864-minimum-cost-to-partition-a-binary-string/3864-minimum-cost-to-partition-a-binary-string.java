@@ -5,31 +5,19 @@ class Solution {
     }
 
     long rec(String s, int st, int en, int enc, int flat) {
-
-        int len = en - st + 1;
-        int count = sen(s, st, en);
-
+        if(st>=en)return s.charAt(st)=='1'? enc: flat;
+        int len=en-st+1;
+        int count=sen(s, st, en);
         long store;
-        if (count == 0)
-            store = flat;
-        else
-            store = (long) len * count * enc;
+        if(count==0)store=flat;
+        else store=len*count*enc;
 
-        if (st == en)
-            return store;
-
-        if (len % 2 == 0) {
-
-            int mid = (st + en) / 2;
-
-            long left = rec(s, st, mid, enc, flat);
-            long right = rec(s, mid + 1, en, enc, flat);
-
-            long split = left + right;
-
-            return Math.min(store, split);
+        if(len%2==0){
+            int mid=(en+st)/2;
+            long left=rec(s, st, mid, enc, flat);
+            long right=rec(s, mid+1, en, enc, flat);
+            return Math.min(store, left+right);
         }
-
         return store;
     }
 
