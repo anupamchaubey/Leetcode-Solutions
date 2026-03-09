@@ -1,6 +1,6 @@
 class Solution {
-    int[] nodesBelow;//countNodesFromHere
-    int[] res;//distance sum inside substree
+    int[] subtree;//number of nodes in subtree of x
+    int[] res;//sum of distances from x to all nodes in its subtree
     List<List<Integer>> adj;
     public int[] sumOfDistancesInTree(int n, int[][] edges) {
         adj=new ArrayList<>();
@@ -11,7 +11,7 @@ class Solution {
             adj.get(e[0]).add(e[1]);
             adj.get(e[1]).add(e[0]);
         }
-        nodesBelow=new int[n];
+        subtree=new int[n];
         res=new int[n];
         
         dfs1(0, -1);
@@ -19,21 +19,20 @@ class Solution {
         return res;
     }
     void dfs1(int node, int parent){
-        nodesBelow[node]=1;
+        subtree[node]=1;
         for(int child: adj.get(node)){
             if(child==parent)continue;
             dfs1(child, node);
-            nodesBelow[node]+=nodesBelow[child];
-            res[node]+=res[child]+nodesBelow[child];
+            subtree[node]+=subtree[child];
+            res[node]+=res[child]+subtree[child];
         }
     }
     void dfs2(int node, int parent, int n){
         for(int child: adj.get(node)){
             if(child==parent)continue;
-            res[child]=res[node]-nodesBelow[child]+(n-nodesBelow[child]);
+            res[child]=res[node]-subtree[child]+(n-subtree[child]);
             dfs2(child, node, n);
         }
     }
-
-
+    
 }
