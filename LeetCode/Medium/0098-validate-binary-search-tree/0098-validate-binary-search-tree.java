@@ -1,5 +1,5 @@
 class Solution {
-    RANGE METHOD 
+    // RANGE METHOD 
     public boolean isValidBST(TreeNode root) {
         return validate(root,Long.MIN_VALUE, Long.MAX_VALUE);
     }
