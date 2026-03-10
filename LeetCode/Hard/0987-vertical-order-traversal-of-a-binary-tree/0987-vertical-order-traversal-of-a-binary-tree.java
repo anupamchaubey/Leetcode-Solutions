@@ -1,3 +1,18 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 /*
 
 You are given a binary tree. You must print its nodes column by column (vertically), following three rules:
@@ -49,47 +64,53 @@ PriorityQueue	Keeps values sorted
 This automatically handles all ordering rules.
 
 */
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+class Pair {
+    TreeNode node;
+    int r;
+    int c;
+
+    public Pair(TreeNode node, int r, int c) {
+        this.node = node;
+        this.r = r;
+        this.c = c;
+    }
+}
+
 class Solution {
-    TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
+    
 
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        dfs(root, 0, 0);
+        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> tm = new TreeMap<>();
         List<List<Integer>> ans = new ArrayList<>();
-        for (TreeMap<Integer, PriorityQueue<Integer>> rows : map.values()) {
-            List<Integer> ls = new ArrayList<>();
-            for (PriorityQueue<Integer> cols : rows.values()) {
-                while (!cols.isEmpty()) {
-                    ls.add(cols.poll());
-                }
+
+        Queue<Pair> q = new LinkedList<>();
+
+        q.offer(new Pair(root, 0, 0));
+        while (!q.isEmpty()) {
+            Pair p = q.poll();
+            TreeNode node = p.node;
+            int r = p.r;
+            int c = p.c;
+            tm.putIfAbsent(c, new TreeMap<>());
+            tm.get(c).putIfAbsent(r, new PriorityQueue<>());
+            tm.get(c).get(r).add(node.val);
+
+            if (node.left != null) {
+                q.offer(new Pair(node.left, r + 1, c - 1));
             }
-            ans.add(ls);
+
+            if (node.right != null) {
+                q.offer(new Pair(node.right, r + 1, c + 1));
+            }
+        }
+
+        for (TreeMap<Integer, PriorityQueue<Integer>> rows : tm.values()) {
+            ArrayList<Integer> list = new ArrayList<>();
+            for (PriorityQueue<Integer> nodes : rows.values()) {
+                list.addAll(nodes);
+            }
+            ans.add(list);
         }
         return ans;
-
-    }
-
-    void dfs(TreeNode root, int r, int c) {
-        if (root == null)
-            return;
-        map.putIfAbsent(c, new TreeMap());
-        map.get(c).putIfAbsent(r, new PriorityQueue<>());
-        map.get(c).get(r).add(root.val);
-        dfs(root.left, r + 1, c - 1);
-        dfs(root.right, r + 1, c + 1);
     }
 }
