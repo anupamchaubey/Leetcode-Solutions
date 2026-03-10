@@ -15,26 +15,30 @@
  */
 class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) {
-        if(root==null){
+        if (root == null) {
             return new TreeNode(val);
         }
         insert(root, val);
         return root;
-        
+
     }
-    void insert(TreeNode root, int val){
-        if(val<root.val){
-            if(root.left==null){
-                root.left=new TreeNode(val);
-                return;
+
+    void insert(TreeNode root, int val) {
+        while (root != null) {
+            if (val < root.val) {
+                if (root.left == null) {
+                    root.left = new TreeNode(val);
+                    return;
+                }
+                root=root.left;
+            } else {
+                if (root.right == null) {
+                    root.right = new TreeNode(val);
+                    return;
+                }
+                root=root.right;
             }
-            insertIntoBST(root.left, val);
-        }else{
-            if(root.right==null){
-                root.right=new TreeNode(val);
-                return;
-            }
-            insertIntoBST(root.right, val);
         }
+
     }
 }
