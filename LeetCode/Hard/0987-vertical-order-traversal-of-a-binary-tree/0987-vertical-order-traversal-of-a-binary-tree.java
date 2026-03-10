@@ -77,40 +77,48 @@ class Pair {
 }
 
 class Solution {
-    
-
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> tm = new TreeMap<>();
-        List<List<Integer>> ans = new ArrayList<>();
-
-        Queue<Pair> q = new LinkedList<>();
-
+        List<int[]> nodes= new ArrayList<>();
+        Queue<Pair> q= new LinkedList<>();
         q.offer(new Pair(root, 0, 0));
-        while (!q.isEmpty()) {
+        while(!q.isEmpty()){
             Pair p = q.poll();
             TreeNode node = p.node;
             int r = p.r;
             int c = p.c;
-            tm.putIfAbsent(c, new TreeMap<>());
-            tm.get(c).putIfAbsent(r, new PriorityQueue<>());
-            tm.get(c).get(r).add(node.val);
-
-            if (node.left != null) {
-                q.offer(new Pair(node.left, r + 1, c - 1));
+            nodes.add(new int[]{c, r, node.val});
+            
+            if(node.left!=null){
+                q.offer(new Pair(node.left, r+1, c-1));
             }
-
-            if (node.right != null) {
-                q.offer(new Pair(node.right, r + 1, c + 1));
+            if(node.right!=null){
+                q.offer(new Pair(node.right, r+1, c+1));
             }
         }
+        Collections.sort(nodes, (a, b)-> {
+            if(a[0]!=b[0])return a[0]-b[0];
+            else if( a[1]!=b[1])return a[1]-b[1];
+            else return a[2]-b[2];
+        });
+        
+        List<List<Integer>> ans = new ArrayList<>();
 
-        for (TreeMap<Integer, PriorityQueue<Integer>> rows : tm.values()) {
-            ArrayList<Integer> list = new ArrayList<>();
-            for (PriorityQueue<Integer> nodes : rows.values()) {
-                list.addAll(nodes);
+        int prevCol = Integer.MIN_VALUE;
+
+        for(int[] node : nodes){
+
+            int col = node[0];
+            int val = node[2];
+
+            if(col != prevCol){
+                ans.add(new ArrayList<>());
+                prevCol = col;
             }
-            ans.add(list);
+
+            ans.get(ans.size()-1).add(val);
         }
+
         return ans;
+
     }
 }
