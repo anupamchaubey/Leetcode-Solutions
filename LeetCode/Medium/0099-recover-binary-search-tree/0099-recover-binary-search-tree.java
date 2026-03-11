@@ -32,7 +32,6 @@ class Solution {
                     n1 = ls.get(i);
             }
         }
-        System.out.println(ls);
         inorder(root, n1, n2);
         int temp = node1.val;
         node1.val = node2.val;
