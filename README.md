@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Depth-First Search
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Graph Theory
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
