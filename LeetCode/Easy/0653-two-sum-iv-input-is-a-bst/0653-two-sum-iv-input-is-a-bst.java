@@ -17,11 +17,15 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         List<Integer> ls= new ArrayList<>();
         inorder(root, ls);
-        
-        HashSet<Integer> hs= new HashSet<>();
-        for(int i: ls){
-            if(hs.contains(k-i))return true;
-            hs.add(root.val);
+        int i=0, j=ls.size()-1;
+        while(i<j){
+            int sum=ls.get(i)+ls.get(j);
+            if(sum==k)return true;
+            if(sum<k){
+                i++;
+            }else{
+                j--;
+            }
         }
         return false;
     }
