@@ -14,15 +14,21 @@
  * }
  */
 class Solution {
+    // min and max only tell the range of values, not whether the subtree structure itself follows BST rules.
+//so we must create a isBST 
+//So parent knows:
+//    child subtree itself must be BST
     class Pair {
         int min;
         int max;
         int sum;
+        boolean isBST;
 
-        Pair(int min, int max, int sum) {
+        Pair(int min, int max, int sum, boolean isBST) {
             this.min = min;
             this.max = max;
             this.sum = sum;
+            this.isBST = isBST;
         }
     }
 
@@ -35,16 +41,16 @@ class Solution {
 
     Pair post(TreeNode root) {
         if (root == null)
-            return new Pair(Integer.MAX_VALUE, Integer.MIN_VALUE, 0);
+            return new Pair(Integer.MAX_VALUE, Integer.MIN_VALUE, 0, true);
         Pair left = post(root.left);
         Pair right = post(root.right);
-        if (left.max < root.val && right.min > root.val) {
+        if (left.isBST && right.isBST && left.max < root.val && right.min > root.val) {
             int sum = left.sum + right.sum + root.val;
             maxsum = Math.max(maxsum, sum);
             int mini = Math.min(root.val, left.min);
             int maxi = Math.max(root.val, right.max);
-            return new Pair(mini, maxi, sum);
+            return new Pair(mini, maxi, sum, true);
         } else
-            return new Pair(Integer.MIN_VALUE, Integer.MAX_VALUE, 0);
+            return new Pair(Integer.MIN_VALUE, Integer.MAX_VALUE, 0, false);
     }
 }
