@@ -13,32 +13,30 @@
  *     }
  * }
  */
+
+ // Greedy Approach
 class Solution {
-    class Pair{
-        int covered;
-        int empty;
-        int camera;
-        Pair(int covered, int empty, int camera){
-            this.covered=covered;
-            this.empty=empty;
-            this.camera=camera;
+    int camera;
+    public int minCameraCover(TreeNode root) {
+        camera=0;
+        postorder(root);
+        if(camera==0)camera++;
+        return camera;
+    }
+    // 0-> empty , 1-> camera , 2-> covered
+    int postorder(TreeNode root){
+        if(root==null)return 2;//already covered
+        int left=postorder(root.left);
+        int right=postorder(root.right);
+        if(left==1|| right==1){
+            return 2;
+        }if(left==0 || right==0){
+            camera++;
+            return 1;
+        }
+        else{
+            return 0;
         }
     }
-    public int minCameraCover(TreeNode root) {
-        Pair p=postorder(root);
-        return Math.min(p.covered, p.camera);
-    }
-    Pair postorder(TreeNode root){
-        if(root==null)return new Pair(0, Integer.MAX_VALUE/2, Integer.MAX_VALUE/2);
-        Pair left=postorder(root.left);
-        Pair right=postorder(root.right);
 
-        int co=Math.min(left.camera+ Math.min(right.camera, right.covered),right.camera+ Math.min(left.camera, left.covered));
-
-        int ca=1+Math.min(left.camera, Math.min(left.covered, left.empty))+Math.min(right.camera, Math.min(right.covered, right.empty));
-
-        int em=left.covered+right.covered;
-
-        return new Pair(co, em, ca);
-    }
 }
