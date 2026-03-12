@@ -19,8 +19,8 @@ class Solution {
     int camera;
     public int minCameraCover(TreeNode root) {
         camera=0;
-        postorder(root);
-        if(camera==0)camera++;
+        
+        if(postorder(root)==0)camera++;
         return camera;
     }
     // 0-> empty , 1-> camera , 2-> covered
@@ -28,12 +28,17 @@ class Solution {
         if(root==null)return 2;//already covered
         int left=postorder(root.left);
         int right=postorder(root.right);
+        //if any child is camera then this node will be automatically covered
         if(left==1|| right==1){
             return 2;
-        }if(left==0 || right==0){
+        
+        }
+        //if any child is empty then u must put camera here 
+        else if(left==0 || right==0){
             camera++;
             return 1;
         }
+        // all child are already covered
         else{
             return 0;
         }
