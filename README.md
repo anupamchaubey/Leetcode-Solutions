@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +231,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
