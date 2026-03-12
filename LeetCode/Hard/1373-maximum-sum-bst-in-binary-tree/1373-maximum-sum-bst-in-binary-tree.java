@@ -15,9 +15,9 @@
  */
 class Solution {
     // min and max only tell the range of values, not whether the subtree structure itself follows BST rules.
-//so we must create a isBST 
-//So parent knows:
-//    child subtree itself must be BST
+    //so we must create a isBST 
+    //So parent knows:
+    //    child subtree itself must be BST
     class Pair {
         int min;
         int max;
@@ -32,11 +32,13 @@ class Solution {
         }
     }
 
-    int maxsum = 0;
+    int maxsum;
 
     public int maxSumBST(TreeNode root) {
+        maxsum = 0;
         post(root);
         return maxsum;
+
     }
 
     Pair post(TreeNode root) {
