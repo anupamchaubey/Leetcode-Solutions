@@ -35,6 +35,7 @@ class Solution {
             camera++;
             return 1;
         }
+        //order matters
         else if(left==1|| right==1){
             return 2;
         
