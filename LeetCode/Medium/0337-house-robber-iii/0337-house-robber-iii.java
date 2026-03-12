@@ -14,36 +14,28 @@
  * }
  */
 class Solution {
+    class Pair {
+        int rob;
+        int notrob;
 
-    HashMap<String, Long> memo = new HashMap<>();
-
-    public int rob(TreeNode root) {
-
-        boolean prev = false;
-        long max = rec(root, prev);
-        return (int) max;
+        Pair(int rob, int notrob) {
+            this.rob = rob;
+            this.notrob = notrob;
+        }
     }
 
-    long rec(TreeNode root, boolean prev) {
-        if (root == null)
-            return 0;
-        String key = root.hashCode() + "-" + prev;
-        if (memo.containsKey(key))
-            return memo.get(key);
-        long ans;
-        if (prev) {
-            //cannot rob
-            long a = rec(root.left, false);
-            long b = rec(root.right, false);
-            ans = a + b;
-        } else {
-            //can rob
-            long take = root.val + rec(root.left, true) + rec(root.right, true);
-            long nontake = rec(root.left, false) + rec(root.right, false);
-            ans = Math.max(take, nontake);
-        }
-        memo.put(key, ans);
-        return ans;
+    public int rob(TreeNode root) {
+        Pair p = postorder(root);
+        return Math.max(p.rob, p.notrob);
+    }
 
+    Pair postorder(TreeNode root) {
+        if (root == null)
+            return new Pair(0, 0);
+        Pair left = postorder(root.left);
+        Pair right = postorder(root.right);
+        int rob = root.val + left.notrob + right.notrob;
+        int notrob = Math.max(left.rob, left.notrob) + Math.max(right.rob, right.notrob);
+        return new Pair(rob, notrob);
     }
 }
