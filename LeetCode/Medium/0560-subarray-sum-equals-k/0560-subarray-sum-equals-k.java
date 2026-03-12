@@ -8,9 +8,8 @@ class Solution {
         int prefixsum=0;
         for(int i=0;i<n;i++){
             prefixsum+=nums[i];
-            hm.put(prefixsum, hm.getOrDefault(prefixsum, 0)+1);
             if(hm.containsKey(prefixsum-k))count+=hm.get(prefixsum-k);
-            
+            hm.put(prefixsum, hm.getOrDefault(prefixsum, 0)+1);
         }
 
         return count;
