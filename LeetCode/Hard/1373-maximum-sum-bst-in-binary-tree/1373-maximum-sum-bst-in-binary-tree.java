@@ -48,6 +48,6 @@ class Solution {
             int maxi = Math.max(right.max, root.val);
             return new Pair(maxi, mini, sum, true);
         } else
-            return new Pair(Integer.MIN_VALUE, Integer.MAX_VALUE, 0, false);
+            return new Pair(Integer.MAX_VALUE, Integer.MIN_VALUE, 0, false);
     }
 }
