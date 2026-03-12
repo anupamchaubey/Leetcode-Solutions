@@ -29,14 +29,15 @@ class Solution {
         int left=postorder(root.left);
         int right=postorder(root.right);
         //if any child is camera then this node will be automatically covered
-        if(left==1|| right==1){
-            return 2;
         
-        }
         //if any child is empty then u must put camera here 
-        else if(left==0 || right==0){
+        if(left==0 || right==0){
             camera++;
             return 1;
+        }
+        else if(left==1|| right==1){
+            return 2;
+        
         }
         // all child are already covered
         else{
