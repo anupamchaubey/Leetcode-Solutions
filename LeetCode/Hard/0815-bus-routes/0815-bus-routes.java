@@ -1,36 +1,52 @@
 class Solution {
     public int numBusesToDestination(int[][] routes, int source, int target) {
-        if(source == target)return 0;
-        HashMap<Integer, List<Integer>> hm= new HashMap<>();//stops-->routes
-        for(int i=0;i<routes.length;i++){
-            for(int j: routes[i]){
-                hm.putIfAbsent(j, new ArrayList<>());
-                hm.get(j).add(i);
+        int m = routes.length;
+        HashMap<Integer, HashSet<Integer>> hm = new HashMap<>();
+        for (int i = 0; i < m; i++) {
+            hm.putIfAbsent(i, new HashSet<>());
+            for (int x : routes[i]) {
+                hm.get(i).add(x);
             }
         }
-        if(!hm.containsKey(source))return -1;
-        boolean[] visited=new boolean[routes.length];
-        Queue<Integer> q= new LinkedList<>();
-        for(int x: hm.get(source)){
-            visited[x]=true;
-            q.offer(x);
+        boolean[] visited = new boolean[m];
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < m; i++) {
+            for (int j : routes[i]) {
+                if (j == source) {
+                    visited[i] = true;
+                    q.offer(i);
+                }
+            }
         }
-        int buses=1;
-        while(!q.isEmpty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                int x=q.poll();
-                for(int v:routes[x]){
-                    if(v==target)return buses;
-                    for(int r: hm.get(v)){
-                        if(!visited[r]){
-                            visited[r]=true;
-                            q.offer(r);
+        int buses = 1;
+        while (!q.isEmpty()) {
+            int size = q.size();
+            for (int i = 0; i < size; i++) {
+                int r = q.poll();
+                if (hm.get(r).contains(target))
+                    return buses;
+                for (int stops : hm.get(r)) {
+
+                    for(int idx=0;idx<m;idx++){
+                        if(!visited[idx]){
+                            if(hm.get(idx).contains(stops)){
+                                visited[idx]=true;
+                                q.offer(idx);
+                            }
                         }
                     }
+                    // if (r > 0 && !visited[r - 1] && hm.get(r - 1).contains(stops)) {
+                    //     visited[r - 1] = true;
+                    //     q.offer(r - 1);
+                    // }
+                    // if (r + 1 < m && !visited[r + 1] && hm.get(r + 1).contains(stops)) {
+                    //     visited[r + 1] = true;
+                    //     q.offer(r + 1);
+                    // }
+
                 }
-                buses++;
             }
+            buses++;
         }
         return -1;
     }
