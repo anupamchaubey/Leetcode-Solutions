@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
+| [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
