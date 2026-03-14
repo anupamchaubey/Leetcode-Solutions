@@ -1,6 +1,8 @@
 class Solution {
     public int numBusesToDestination(int[][] routes, int source, int target) {
         int m = routes.length;
+        if(source==target)return 0;
+        
         HashMap<Integer, HashSet<Integer>> hm = new HashMap<>();
         for (int i = 0; i < m; i++) {
             hm.putIfAbsent(i, new HashSet<>());
@@ -27,10 +29,10 @@ class Solution {
                     return buses;
                 for (int stops : hm.get(r)) {
 
-                    for(int idx=0;idx<m;idx++){
-                        if(!visited[idx]){
-                            if(hm.get(idx).contains(stops)){
-                                visited[idx]=true;
+                    for (int idx = 0; idx < m; idx++) {
+                        if (!visited[idx]) {
+                            if (hm.get(idx).contains(stops)) {
+                                visited[idx] = true;
                                 q.offer(idx);
                             }
                         }
