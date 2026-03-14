@@ -37,15 +37,6 @@ class Solution {
                             }
                         }
                     }
-                    // if (r > 0 && !visited[r - 1] && hm.get(r - 1).contains(stops)) {
-                    //     visited[r - 1] = true;
-                    //     q.offer(r - 1);
-                    // }
-                    // if (r + 1 < m && !visited[r + 1] && hm.get(r + 1).contains(stops)) {
-                    //     visited[r + 1] = true;
-                    //     q.offer(r + 1);
-                    // }
-
                 }
             }
             buses++;
