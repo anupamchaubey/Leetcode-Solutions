@@ -11,11 +11,9 @@ class Solution {
         }
     }
 
-    int V;
-
     public int shortestPathLength(int[][] graph) {
         Queue<Pair> q = new LinkedList<>();
-        V = graph.length;
+        int V = graph.length;
         boolean[][] visited = new boolean[V][(1 << V)];
         for (int i = 0; i < V; i++) {
             int bit = (1 << i);
@@ -28,7 +26,7 @@ class Solution {
             int node = X.node;
             int t = X.time;
             int b = X.bit;
-            if (check(b))
+            if (b == (1 << V) - 1)
                 return t;
 
             for (int v : graph[node]) {
@@ -43,18 +41,5 @@ class Solution {
             }
         }
         return -1;
-    }
-
-    boolean check(int bit) {
-        int c = 0;
-        while (bit > 0) {
-            if ((bit & 1) == 1)
-                c++;
-            bit = bit >> 1;
-        }
-        if (c == V)
-            return true;
-        else
-            return false;
     }
 }
