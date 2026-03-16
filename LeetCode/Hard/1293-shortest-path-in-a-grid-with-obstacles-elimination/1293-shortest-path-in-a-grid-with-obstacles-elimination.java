@@ -14,7 +14,7 @@ class Solution {
         dist[0][0][0] = 0;
 
         // row, col, steps, obstacles
-        PriorityQueue<int[]> q = new PriorityQueue<>((a, b) -> Integer.compare(a[2], b[2]));
+        Queue<int[]> q = new LinkedList<>();
         q.offer(new int[] { 0, 0, 0, 0 });
         while (!q.isEmpty()) {
             int[] arr = q.poll();
