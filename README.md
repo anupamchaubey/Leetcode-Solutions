@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -360,4 +361,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
