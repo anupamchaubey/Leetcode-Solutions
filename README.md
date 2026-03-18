@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
