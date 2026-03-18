@@ -20,7 +20,8 @@ public class Codec {
             sb.append("null,");
             return;
         }
-        sb.append(root.val).append(',');
+        
+        sb.append(root.val).append(",");
         preorder(root.left, sb);
         preorder(root.right, sb);
     }
@@ -30,13 +31,13 @@ public class Codec {
         String[] nodes=data.split(",");
         return build(nodes);
     }
-    int index=0;
+    int idx=0;
     TreeNode build(String[] nodes){
-        if(nodes[index].equals("null")){
-            index++;
+        if(nodes[idx].equals("null")){
+            idx++;
             return null;
         }
-        TreeNode root=new TreeNode(Integer.parseInt(nodes[index++]));
+        TreeNode root=new TreeNode(Integer.parseInt(nodes[idx++]));
         root.left=build(nodes);
         root.right=build(nodes);
         return root;
