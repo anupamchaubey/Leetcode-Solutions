@@ -9,7 +9,7 @@ class Solution {
                 int cnt=1;
                 while(hs.contains(x+1)){
                     cnt++;
-                    x=x+1;
+                    x++;
                 }
                 c=Math.max(c, cnt);
             }
