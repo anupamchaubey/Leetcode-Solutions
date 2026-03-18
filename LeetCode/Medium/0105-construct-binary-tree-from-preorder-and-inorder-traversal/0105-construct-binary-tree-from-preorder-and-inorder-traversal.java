@@ -1,23 +1,35 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    int preorderIndex;
-    HashMap<Integer, Integer> hm = new HashMap<>();
-
+    int preidx;
+    HashMap<Integer, Integer> hm;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        preorderIndex = 0;
-        for (int i = 0; i < inorder.length; i++) {
+        preidx=0;
+        hm=new HashMap<>();
+        for(int i=0;i<inorder.length;i++){
             hm.put(inorder[i], i);
         }
-        return rec(preorder, 0, inorder.length - 1);
+        return rec(preorder, 0, inorder.length-1);
     }
-
-    TreeNode rec(int[] preorder, int l, int r) {
-        if (l > r)
-            return null;
-        int rootVal = preorder[preorderIndex++];
-        TreeNode root = new TreeNode(rootVal);
-        int idx = hm.get(rootVal);
-        root.left = rec(preorder, l, idx - 1);
-        root.right = rec(preorder, idx + 1, r);
+    TreeNode rec(int[] preorder, int l, int r){
+        if(l>r)return null;
+        int val=preorder[preidx++];
+        TreeNode root=new TreeNode(val);
+        root.left=rec(preorder, l, hm.get(val)-1);
+        root.right=rec(preorder, hm.get(val)+1, r);
         return root;
     }
 }
