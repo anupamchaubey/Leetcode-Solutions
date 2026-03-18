@@ -1,59 +1,67 @@
-//most expected and efficient approach
-class Pair {
-    TreeNode node;
-    int r;
-    int c;
-
-    public Pair(TreeNode node, int r, int c) {
-        this.node = node;
-        this.r = r;
-        this.c = c;
-    }
-}
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
+    class Pair {
+        int r;
+        int c;
+        TreeNode root;
+
+        Pair(int r, int c, TreeNode root) {
+            this.r = r;
+            this.c = c;
+            this.root = root;
+        }
+    }
+
+    TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> tm;
+
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<int[]> nodes= new ArrayList<>();
-        Queue<Pair> q= new LinkedList<>();
-        q.offer(new Pair(root, 0, 0));
-        while(!q.isEmpty()){
+        tm = new TreeMap<>();
+        Queue<Pair> q = new LinkedList<>();
+        q.offer(new Pair(0, 0, root));// r, c, node
+
+        while (!q.isEmpty()) {
             Pair p = q.poll();
-            TreeNode node = p.node;
+            TreeNode node = p.root;
             int r = p.r;
             int c = p.c;
-            nodes.add(new int[]{c, r, node.val});
-            
-            if(node.left!=null){
-                q.offer(new Pair(node.left, r+1, c-1));
+            tm.putIfAbsent(c, new TreeMap<>());
+            tm.get(c).putIfAbsent(r, new PriorityQueue<>());
+            tm.get(c).get(r).add(node.val);
+
+            if (node.left != null) {
+                q.offer(new Pair(r + 1, c - 1, node.left));
             }
-            if(node.right!=null){
-                q.offer(new Pair(node.right, r+1, c+1));
+            if (node.right != null) {
+                q.offer(new Pair(r + 1, c + 1, node.right));
             }
         }
-        Collections.sort(nodes, (a, b)-> {
-            if(a[0]!=b[0])return a[0]-b[0];
-            else if( a[1]!=b[1])return a[1]-b[1];
-            else return a[2]-b[2];
-        });
-
         List<List<Integer>> ans = new ArrayList<>();
 
-        int prevCol = Integer.MIN_VALUE;
+        for (TreeMap<Integer, PriorityQueue<Integer>> p : tm.values()) {
+            List<Integer> ls = new ArrayList<>();
 
-        for(int[] node : nodes){
+            for (PriorityQueue<Integer> pq : p.values()) {
+                while (!pq.isEmpty()) {
+                    ls.add(pq.poll());
+                }
 
-            int col = node[0];
-            int val = node[2];
-
-            if(col != prevCol){
-                ans.add(new ArrayList<>());
-                prevCol = col;
             }
-
-            ans.get(ans.size()-1).add(val);
+            ans.add(ls);
         }
-
         return ans;
-
     }
 }
