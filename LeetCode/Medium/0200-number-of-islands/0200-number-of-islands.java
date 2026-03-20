@@ -1,32 +1,59 @@
 class Solution {
-    int m;
-    int n;
-    int[] dr={-1, 1, 0, 0};
-    int[] dc={0, 0, -1, 1};
+    int[] parent;
+    int[] rank;
+
+    int find(int x){
+        if(parent[x]!=x)parent[x]=find(parent[x]);
+        return parent[x];
+    }
+    void union(int x, int y){
+        int px=find(x);
+        int py=find(y);
+        if(px==py)return;
+
+        if(rank[px]>rank[py]){
+            parent[py]=px;
+        }else if(rank[py]>rank[px]){
+            parent[px]=py;
+        }else{
+            parent[py]=px;
+            rank[px]++;
+        }
+    }
     public int numIslands(char[][] grid) {
-        m=grid.length;
-        n=grid[0].length;
-        int c=0;
-        boolean[][] visited=new boolean[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]=='1' && !visited[i][j]){
-                    visited[i][j]=true;
-                    dfs(grid, i, j, visited);
-                    c++;
+        int r=grid.length;
+        int c=grid[0].length;
+        int n=r*c;
+        parent=new int[n];
+        rank=new int[n];
+
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+            rank[i]=1;
+        }
+        int cnt=0;
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(grid[i][j]=='1'){
+                    cnt++;
+                    int id=i*c+j;
+                    //up
+                    if(i>0 && grid[i-1][j]=='1'){
+                        if(find(id)!=find((i-1)*c+j)){
+                            union(id, (i-1)*c+j);
+                            cnt--;
+                        }
+                    }
+                    //left
+                    if(j>0 && grid[i][j-1]=='1'){
+                        if(find(id)!=find(i*c+(j-1))){
+                            union(id, i*c+(j-1));
+                            cnt--;
+                        }
+                    }
                 }
             }
         }
-        return c;
-    }
-    void dfs(char[][] grid, int r, int c, boolean[][] visited){
-        for(int i=0;i<4;i++){
-            int nr=r+dr[i];
-            int nc=c+dc[i];
-            if(nr>=0 && nc>=0 && nr<m && nc<n && !visited[nr][nc] && grid[nr][nc]=='1'){
-                visited[nr][nc]=true;
-                dfs(grid, nr, nc, visited);
-            }
-        }
+        return cnt;
     }
 }
