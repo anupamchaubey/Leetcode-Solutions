@@ -16,22 +16,25 @@
 class Solution {
     class Pair{
         int rob;
-        int not;
-        Pair(int rob, int not){
+        int notrob;
+        Pair(int rob, int notrob){
             this.rob=rob;
-            this.not=not;
+            this.notrob=notrob;
         }
     }
     public int rob(TreeNode root) {
-        Pair p=postorder(root);
-        return Math.max(p.rob, p.not);
+        Pair p=rec(root);
+        return Math.max(p.rob, p.notrob);
     }
-    Pair postorder(TreeNode root){
-        if(root==null)return new Pair(0, 0);
-        Pair left=postorder(root.left);
-        Pair right=postorder(root.right);
-        int rob=root.val+left.not+right.not;
-        int not=Math.max(left.rob, left.not)+Math.max(right.rob, right.not);
-        return new Pair(rob, not);
+    Pair rec(TreeNode root){
+        if(root==null){
+            return new Pair(0,0);
+        }
+        Pair left=rec(root.left);
+        Pair right=rec(root.right);
+
+        int rob=root.val+left.notrob+right.notrob;
+        int notrob=Math.max(left.rob, left.notrob)+Math.max(right.rob, right.notrob);
+        return new Pair(rob, notrob);
     }
 }
