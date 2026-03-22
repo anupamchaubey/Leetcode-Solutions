@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2845-count-of-interesting-subarrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2845-count-of-interesting-subarrays/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2845-count-of-interesting-subarrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2845-count-of-interesting-subarrays/) | Medium |
 ## Linked List
