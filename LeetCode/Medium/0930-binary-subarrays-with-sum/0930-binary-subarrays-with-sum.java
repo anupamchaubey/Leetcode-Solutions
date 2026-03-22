@@ -1,18 +1,23 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int sum=0;
+        // exactly k= atmost k - atmost k-1
+        return atmost(nums, goal)-atmost(nums, goal-1);
+    }
+    int atmost(int[] nums, int k){
+        if(k<0)return 0;
         int count=0;
-        HashMap<Integer, Integer> hm= new HashMap<>();
-        hm.put(0, 1);
-        for(int r=0;r<nums.length;r++){
-            sum+=nums[r];
-            if(hm.containsKey(sum-goal)){
-                count+=hm.get(sum-goal);
+        int sum=0;
+        int left=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+
+            while(sum>k){
+                sum-=nums[left];
+                left++;
             }
-            hm.put(sum, hm.getOrDefault(sum, 0)+1);
+            count+=(i-left+1);
         }
         return count;
-
     }
     
 }
