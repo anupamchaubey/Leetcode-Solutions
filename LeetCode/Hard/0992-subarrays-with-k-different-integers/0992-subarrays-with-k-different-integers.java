@@ -2,6 +2,7 @@ class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
         return atmost(nums, k)-atmost(nums, k-1);
     }
+    // exactly(k) = atmost(nums, k) - atmost(nums, k-1)
     int atmost(int[] nums, int k){
         HashMap<Integer, Integer> hm=new HashMap<>();
         int l=0;
