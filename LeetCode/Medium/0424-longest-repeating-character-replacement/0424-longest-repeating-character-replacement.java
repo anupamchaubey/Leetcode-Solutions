@@ -15,6 +15,7 @@ class Solution {
                 freq[s.charAt(left)-'A']--;
                 left++;
             }
+            for(int x: freq)maxfreq=Math.max(maxfreq, x);
             max=Math.max(max, i-left+1);
         }
         return max;
