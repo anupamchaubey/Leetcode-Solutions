@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
