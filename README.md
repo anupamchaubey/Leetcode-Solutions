@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -458,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
