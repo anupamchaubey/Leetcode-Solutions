@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
