@@ -1,5 +1,7 @@
 class Solution {
     public int[] corpFlightBookings(int[][] bookings, int n) {
+    //Difference Array pattern for fast range multiple updates 
+    // but query should be only single time not intermediate, 
         int[] arr= new int[n];
         for(int[] b: bookings){
             int l=b[0];
