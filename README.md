@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0278-first-bad-version](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
