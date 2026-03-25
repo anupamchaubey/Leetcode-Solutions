@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
 ## Binary Tree
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -440,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Trie
@@ -497,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Quickselect
