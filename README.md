@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
+| [0860-lemonade-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
