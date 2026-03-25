@@ -1,19 +1,19 @@
 class Solution {
     public int[] numberOfPairs(int[] nums) {
-        Arrays.sort(nums);
-        int x = 0, y = 0;
-        int i = 0;
-        while (i < nums.length - 1) {
-            if (nums[i] == nums[i + 1]) {
-                x++;
-                i += 2;
-            } else {
+        HashMap<Integer, Integer> hm= new HashMap<>();
+        for(int x: nums){
+            hm.put(x, hm.getOrDefault(x, 0)+1);
+        }
+        int x=0, y=0;
+        for(int v:hm.values()){
+            if(v%2!=0){
                 y++;
-                i++;
+                x+=(v-1)/2;
+            }
+            else{
+                x+=(v/2);
             }
         }
-        if (i == nums.length - 1)
-            y++;
-        return new int[] { x, y };
+        return new int[]{x, y};
     }
 }
