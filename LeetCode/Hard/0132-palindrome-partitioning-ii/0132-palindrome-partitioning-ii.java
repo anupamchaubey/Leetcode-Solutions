@@ -1,4 +1,5 @@
 class Solution {
+    // prefix dp
     public int minCut(String s) {
         int n=s.length();
         boolean[][] pal= new boolean[n+1][n+1];
