@@ -13,16 +13,19 @@ class Solution {
     //     }
     //     return dp[n];
         int n=s.length();
+        Boolean[][] dp=new Boolean[n+1][n+1];
+        
         Set<String> hs= new HashSet<>();
         for(String str: dict)hs.add(str);
-        return rec(s, 0, 1, hs);
+        return rec(s, 0, 1, hs, dp);
     }
-    boolean rec(String s, int i, int j, Set<String> hs){
+    boolean rec(String s, int i, int j, Set<String> hs, Boolean[][] dp){
         if(i==s.length())return true;
         if (j > s.length()) return false;
+        if(dp[i][j]!=null)return dp[i][j];
         if(hs.contains(s.substring(i, j))){
-            return rec(s, j, j+1, hs)|| rec(s, i, j+1, hs);
+            return dp[i][j]= rec(s, j, j+1, hs, dp)|| rec(s, i, j+1, hs, dp);
         }
-        else return rec(s, i, j+1, hs);
+        return dp[i][j]= rec(s, i, j+1, hs, dp);
     }
 }
