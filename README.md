@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -485,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -566,4 +571,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
