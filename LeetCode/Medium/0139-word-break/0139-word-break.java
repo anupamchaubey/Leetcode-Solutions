@@ -1,4 +1,5 @@
 class Solution {
+    // prefix dp
     public boolean wordBreak(String s, List<String> dict) {
         int n=s.length();
         Set<String> hs= new HashSet<>();
