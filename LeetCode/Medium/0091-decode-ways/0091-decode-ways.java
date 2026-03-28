@@ -1,21 +1,22 @@
 class Solution {
-    Integer[] dp;
     public int numDecodings(String s) {
-        if(s.charAt(0)=='0')return 0;
-        dp= new Integer[s.length()];
-        return rec(s, 0);
+        Integer[] dp = new Integer[s.length()];
+        return rec(s, 0, dp);
     }
-    int rec(String s, int idx){
+    int rec(String s, int idx, Integer[] dp){
         if(idx>s.length())return 0;
         if(idx==s.length())return 1;
         if(s.charAt(idx)=='0')return 0;
         if(dp[idx]!=null)return dp[idx];
-        int c=rec(s, idx+1);
-        if(idx+1<s.length()){
-            int val=Integer.parseInt(s.substring(idx, idx+2));
-            if(val>=10 && val<=26){
-                c+=rec(s, idx+2);
-            }
+        int c=0;
+        if(s.charAt(idx)=='1'){
+            c+=rec(s, idx+1, dp);
+            c+=rec(s, idx+2, dp);
+        }else if(idx+1<s.length() && s.charAt(idx)=='2' && s.charAt(idx+1)<='6'){
+            c+=rec(s, idx+1, dp);
+            c+=rec(s, idx+2, dp);
+        }else{
+            c+=rec(s, idx+1, dp);
         }
         return dp[idx]= c;
     }
