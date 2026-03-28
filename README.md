@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
