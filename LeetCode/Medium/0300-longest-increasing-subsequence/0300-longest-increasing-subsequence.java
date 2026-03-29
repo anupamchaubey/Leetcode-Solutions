@@ -1,17 +1,22 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int[] dp= new int[nums.length];
-        int max=1;
-        for(int i=0;i<nums.length;i++){
-            dp[i]=1;
-            for(int prev=0;prev<i;prev++){
-                
-                if(nums[i]> nums[prev]){
-                    dp[i]=Math.max(dp[i], dp[prev]+1);
+        //longest increasing subsequence ending at index i
+        int n=nums.length;
+        int[] tails=new int[n];
+        int size=0;
+        for(int i=0;i<n;i++){
+            int l=0, r=size;
+            while(l<r){
+                int mid=l+(r-l)/2;
+                if(tails[mid]<nums[i]){
+                    l=mid+1;
+                }else{
+                    r=mid;
                 }
             }
-            max=Math.max(dp[i], max);
+            tails[l]=nums[i];
+            if(l==size)size++;
         }
-        return max;
+        return size;
     }
 }
