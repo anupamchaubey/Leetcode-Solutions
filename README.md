@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0650-2-keys-keyboard/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
