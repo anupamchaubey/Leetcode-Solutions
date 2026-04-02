@@ -1,49 +1,46 @@
 class Solution {
     int[] parent;
-    int[] rank;
-    int find(int x){
-        if(parent[x]!=x){
-            parent[x]=find(parent[x]);
-        }
-        return parent[x];
-    }
-    void union(int x, int y){
-        int px=find(x);
-        int py=find(y);
+    int[] size;
 
-        if(px==py)return;
-
-        if(rank[px]>rank[py]){
-            parent[py]=px;
-        }else if(parent[py]>px){
-            parent[px]=py;
-        }else{
-            parent[px]=py;
-            rank[py]++;
-        }
+    int find(int x) {
+        if (parent[x] != x)
+            return parent[x]=find(parent[x]);
+        return x;
     }
-    public int makeConnected(int n, int[][] connections) {
-        parent=new int[n];
-        rank=new int[n];
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-            rank[i]=1;
+
+    boolean union(int x, int y) {
+        int px = find(x);
+        int py = find(y);
+        if (px == py)
+            return false;
+        if (size[px] > size[py]) {
+            parent[py] = px;
+        } else if (size[py] > size[px]) {
+            parent[px] = py;
+        } else {
+            parent[px] = py;
+            size[py] += size[px];
         }
-        
-        int extraCables=0;
-        for(int[] c: connections){
-            int x=c[0];
-            int y=c[1];
-            if(find(x)==find(y))extraCables++;
-            else{
-                union(x, y);
-            }
+        return true;
+    }
+
+    public int makeConnected(int n, int[][] edges) {
+        parent = new int[n];
+        size = new int[n];
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+            size[i]=1;
         }
-        int comps=0;
-        for(int i=0;i<n;i++){
-            if(parent[i]==i)comps++;
+        int extra=0;
+        for(int i=0;i<edges.length;i++){
+            int x=edges[i][0];
+            int y=edges[i][1];
+            if(!union(x, y))extra++;
         }
-        if(extraCables<(comps-1))return -1;
-        return comps-1;
+        HashSet<Integer> hs= new HashSet<>();
+        for(int i=0;i<n;i++)hs.add(find(i));
+        int need=hs.size()-1;
+        if(need>extra)return -1;
+        return need;
     }
 }
