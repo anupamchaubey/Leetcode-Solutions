@@ -1,41 +1,35 @@
 class Solution {
-    public boolean canFinish(int V, int[][] edges) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < V; i++) {
+    List<List<Integer>> adj;
+    public boolean canFinish(int n, int[][] courses) {
+        adj=new ArrayList<>();
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-
-        for (int[] e : edges) {
-            adj.get(e[0]).add(e[1]);
+        for(int[] c: courses){
+            adj.get(c[0]).add(c[1]);
         }
-        boolean[] visited = new boolean[V];
-        boolean[] pathVisited = new boolean[V];
-        for (int i = 0; i < V; i++) {
-            if (!visited[i]) {
-
-                if (!dfs(i, adj, visited, pathVisited))
-                    return false;
-
+        boolean[] visited=new boolean[n];
+        boolean[] pathvisited=new boolean[n];
+        for(int i=0;i<n;i++){
+            if(!visited[i]){
+                visited[i]=true;
+                pathvisited[i]=true;
+                if(dfs(i, visited, pathvisited))return false;
+                pathvisited[i]=false;
             }
         }
         return true;
     }
+    boolean dfs(int node, boolean[] visited, boolean[] pathvisited){
 
-    public boolean dfs(int node, List<List<Integer>> adj, boolean[] visited, boolean[] pathVisited) {
-        visited[node] = true;
-        pathVisited[node] = true;
-        for (int i : adj.get(node)) {
-            if (!visited[i]) {
-
-                if (!dfs(i, adj, visited, pathVisited))
-                    return false;
-
-            } else {
-                if (pathVisited[i])
-                    return false;
-            }
+        for(int v: adj.get(node)){
+            if(!visited[v]){
+                visited[v]=true;
+                pathvisited[v]=true;
+                if(dfs(v, visited, pathvisited))return true;//cycle detected
+                pathvisited[v]=false;
+            }else if(pathvisited[v])return true;//cycle detected
         }
-        pathVisited[node] = false;
-        return true;
+        return false;//no cycle
     }
 }
