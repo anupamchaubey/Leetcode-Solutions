@@ -1,14 +1,15 @@
 class Solution {
     class Pair {
-        int node, w;
+        int v;
+        int t;
 
-        public Pair(int node, int w) {
-            this.node = node;
-            this.w = w;
+        Pair(int v, int t) {
+            this.v = v;
+            this.t = t;
         }
     }
 
-    public int networkDelayTime(int[][] times, int n, int src) {
+    public int networkDelayTime(int[][] times, int n, int k) {
         List<List<Pair>> adj = new ArrayList<>();
         for (int i = 0; i <= n; i++) {
             adj.add(new ArrayList<>());
@@ -16,35 +17,35 @@ class Solution {
         for (int[] t : times) {
             int u = t[0];
             int v = t[1];
-            int w = t[2];
-            adj.get(u).add(new Pair(v, w));
+            int ti = t[2];
+            adj.get(u).add(new Pair(v, ti));
         }
-        int[] dist = new int[n + 1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[src] = 0;
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.w, b.w));
-        pq.offer(new Pair(src, 0));
-        while (!pq.isEmpty()) {
-            Pair curr = pq.poll();
-            int u = curr.node;
-            int d = curr.w;
-            if (d > dist[u])
-                continue;
-            for (Pair p : adj.get(u)) {
-                int v = p.node;
-                int w = p.w;
-                if (dist[v] > d + w) {
-                    dist[v] = d + w;
-                    pq.offer(new Pair(v, dist[v]));
+        int[] dist=new int[n+1];
+        Arrays.fill(dist, Integer.MAX_VALUE/2);
+        dist[0]=-1;
+        dist[k]=0;
+
+        PriorityQueue<Pair> q = new PriorityQueue<>((a, b) -> Integer.compare(a.t, b.t));
+        
+        q.offer(new Pair(k, 0));
+
+        while (!q.isEmpty()) {
+            Pair p = q.poll();
+            int u = p.v;
+
+            for (Pair pv : adj.get(u)) {
+                int v = pv.v;
+                if(dist[u]+pv.t<dist[v]){
+                    dist[v]=dist[u]+pv.t;
+                    q.offer(new Pair(v, dist[v]));
                 }
+                
             }
         }
-        int min = 0;
-        for (int i = 1; i <= n; i++) {
-            if (dist[i] == Integer.MAX_VALUE)
-                return -1;
-            min = Math.max(min, dist[i]);
-        }
-        return min;
+        int max=0;
+        for(int x: dist)max=Math.max(max, x);
+        if(max==Integer.MAX_VALUE/2)return -1;
+
+        return max;
     }
 }
