@@ -34,8 +34,10 @@ class Solution {
             int u=q.poll();
             for(int v: adj.get(u)){
                 indegree[v]--;
-                if(indegree[v]==0)nodes++;
-                q.offer(v);
+                if(indegree[v]==0){
+                    q.offer(v);
+                    nodes++;
+                }
             }
         }
         return nodes==n;
