@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -577,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
