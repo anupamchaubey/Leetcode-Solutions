@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
+| [2608-shortest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2608-shortest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
