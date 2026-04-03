@@ -1,51 +1,46 @@
 class Solution {
-
-    class Pair {
-        int node;
-        double wt;
-
-        Pair(int node, double wt) {
-            this.node = node;
-            this.wt = wt;
+    class Pair{
+        int v;
+        double pr;
+        Pair(int v, double pr){
+            this.v=v;
+            this.pr=pr;
         }
     }
-
-    public double maxProbability(int n, int[][] edges, double[] succ, int start_node, int end_node) {
-
-        List<List<Pair>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+    public double maxProbability(int n, int[][] edges, double[] succ, int st, int en) {
+        List<List<Pair>> adj=new ArrayList<>();
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for (int i = 0; i < edges.length; i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
-            double wt = succ[i];
-
-            adj.get(u).add(new Pair(v, wt));
-            adj.get(v).add(new Pair(u, wt));
+        
+        for(int i=0;i<succ.length;i++){
+            int u=edges[i][0];
+            int v=edges[i][1];
+            double pr=succ[i];
+            adj.get(u).add(new Pair(v, pr));
+            adj.get(v).add(new Pair(u, pr));
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Double.compare(b.wt, a.wt));
+        double[] prob=new double[n];
+        Arrays.fill(prob, -1.00000);
+        prob[st]=1.00000;
 
-        pq.offer(new Pair(start_node, 1.00000));
+        PriorityQueue<Pair> pq= new PriorityQueue<>((a, b)-> Double.compare(b.pr, a.pr));
+        pq.offer(new Pair(st, 1.00000));
 
-        double[] prob = new double[n];
-        Arrays.fill(prob, Double.MIN_VALUE);
-        prob[start_node] = 1.00000;
-
-        while (!pq.isEmpty()) {
-            Pair p = pq.poll();
-            int node = p.node;
-
-            for (Pair pair : adj.get(node)) {
-                int v = pair.node;
-                double w = pair.wt;
-
-                if (prob[node] * w > prob[v]) {
-                    prob[v] = prob[node] * w;
+        while(!pq.isEmpty()){
+            Pair arr=pq.poll();
+            int u=arr.v;
+            double pro=arr.pr;
+            if(u==en)return prob[u];
+            for(Pair p: adj.get(u)){
+                int v=p.v;
+                double npr=p.pr*pro;
+                if(prob[v]<npr){
+                    prob[v]=npr;
                     pq.offer(new Pair(v, prob[v]));
                 }
             }
         }
-        return prob[end_node];
+        return 0;
     }
 }
