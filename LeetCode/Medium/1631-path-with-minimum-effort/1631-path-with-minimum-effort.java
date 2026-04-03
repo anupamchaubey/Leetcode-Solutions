@@ -12,7 +12,7 @@ class Solution {
         }
         dist[0][0]=0;
 
-        Queue<int[]> q= new LinkedList<>(); // i, j, diff 
+        PriorityQueue<int[]> q= new PriorityQueue<>((a, b)-> Integer.compare(a[2], b[2])); // i, j, diff 
 
         q.offer(new int[] {0, 0, 0});
 
@@ -21,7 +21,9 @@ class Solution {
             int i=arr[0];
             int j=arr[1];
             int d=arr[2];
-            
+            if(i==m-1 && j==n-1){
+                return dist[i][j];
+            }
             for(int p=0;p<4;p++){
                 int nr=i+dr[p];
                 int nc=j+dc[p];
