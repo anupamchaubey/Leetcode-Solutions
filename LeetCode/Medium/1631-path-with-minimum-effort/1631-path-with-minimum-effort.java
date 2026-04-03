@@ -1,50 +1,39 @@
 class Solution {
-    int[] dr = { -1, 1, 0, 0 };
-    int[] dc = { 0, 0, -1, 1 };
+    public int minimumEffortPath(int[][] height) {
+        int[] dr={1, -1, 0, 0};
+        int[] dc={0, 0, -1, 1};
 
-    class Pair {
-        int r;
-        int c;
-        int diff;
+        int m=height.length;
+        int n=height[0].length;
+        int[][] dist=new int[m][n];
 
-        public Pair(int r, int c, int diff) {
-            this.r = r;
-            this.c = c;
-            this.diff = diff;
-        }
-    }
-
-    public int minimumEffortPath(int[][] heights) {
-        int m = heights.length;
-        int n = heights[0].length;
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.diff, b.diff));
-        int[][] dist = new int[m][n];
-        for (int[] arr : dist) {
+        for(int[] arr: dist){
             Arrays.fill(arr, Integer.MAX_VALUE);
         }
-        dist[0][0] = 0;
+        dist[0][0]=0;
 
-        pq.offer(new Pair(0, 0, 0));
-        while (!pq.isEmpty()) {
-            Pair curr = pq.poll();
-            int r = curr.r;
-            int c = curr.c;
-            int diff = curr.diff;
-            if (diff > dist[r][c])
-                continue;
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-                if (nr >= 0 && nc >= 0 && nr < m && nc < n) {
-                    int ndiff = Math.max(diff, Math.abs(heights[nr][nc] - heights[r][c]));
-                    if (dist[nr][nc] > ndiff) {
-                        dist[nr][nc] = ndiff;
-                        pq.offer(new Pair(nr, nc, ndiff));
+        Queue<int[]> q= new LinkedList<>(); // i, j, diff 
+
+        q.offer(new int[] {0, 0, 0});
+
+        while(!q.isEmpty()){
+            int[] arr=q.poll();
+            int i=arr[0];
+            int j=arr[1];
+            int d=arr[2];
+            
+            for(int p=0;p<4;p++){
+                int nr=i+dr[p];
+                int nc=j+dc[p];
+                if(nr>=0 && nc>=0 && nr<m && nc<n){
+                    int newEff=Math.max(d, Math.abs(height[i][j]-height[nr][nc]));
+                    if(newEff<dist[nr][nc]){
+                        dist[nr][nc]=newEff;
+                        q.offer(new int[]{nr, nc, dist[nr][nc]});
                     }
-
                 }
             }
         }
-        return dist[m - 1][n - 1] == Integer.MAX_VALUE ? -1 : dist[m - 1][n - 1];
+        return dist[m-1][n-1];
     }
 }
