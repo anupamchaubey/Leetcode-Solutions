@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 ## Greedy
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1345-jump-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -419,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -580,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
