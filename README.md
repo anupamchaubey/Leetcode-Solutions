@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
@@ -584,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
