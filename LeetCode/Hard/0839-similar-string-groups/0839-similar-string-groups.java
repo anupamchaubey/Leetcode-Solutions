@@ -24,12 +24,14 @@ class Solution {
         }
         return true;
     }
-    boolean isSimilar(String s1, String s2){
-        int diff=0;
-        for(int i=0;i<s1.length();i++){
-            if(s1.charAt(i)!=s2.charAt(i)){
+
+    boolean isSimilar(String s1, String s2) {
+        int diff = 0;
+        for (int i = 0; i < s1.length(); i++) {
+            if (s1.charAt(i) != s2.charAt(i)) {
                 diff++;
-                if(diff>2)return false;
+                if (diff > 2)
+                    return false;
             }
         }
         return true;
@@ -43,17 +45,17 @@ class Solution {
             hs.add(s);
         }
 
-        for(int i=0;i<strs.length;i++){
-            parent[i]=i;
-            size[i]=1;
+        for (int i = 0; i < strs.length; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
-        
+
         int total = strs.length;
-        
-        for(int i=0;i<strs.length;i++){
-            for(int j=i+1;j<strs.length;j++){
-                if(isSimilar(strs[i], strs[j])){
-                    if(find(i)!=find(j)){
+
+        for (int i = 0; i < strs.length; i++) {
+            for (int j = i + 1; j < strs.length; j++) {
+                if (isSimilar(strs[i], strs[j])) {
+                    if (find(i) != find(j)) {
                         union(i, j);
                         total--;
                     }
