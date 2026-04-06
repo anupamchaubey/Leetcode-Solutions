@@ -15,29 +15,22 @@
  */
 class Solution {
     List<String> ans;
-
     public List<String> binaryTreePaths(TreeNode root) {
-        ans = new ArrayList<>();
+        ans=new ArrayList<>();
         dfs(root, new StringBuilder());
         return ans;
     }
-
-    void dfs(TreeNode root, StringBuilder sb) {
-
-        if (root == null)
-            return;
-
-        int len = sb.length();
-
+    void dfs(TreeNode root, StringBuilder sb){
+        if(root==null)return;
+        int len=sb.length();
         sb.append(root.val);
-        if (root.left == null && root.right == null) {
+        if(root.left==null && root.right==null){
             ans.add(sb.toString());
-        } else {
+        }else{
             sb.append("->");
             dfs(root.left, sb);
             dfs(root.right, sb);
         }
         sb.setLength(len);
-
     }
 }
