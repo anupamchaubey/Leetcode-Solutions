@@ -2,7 +2,7 @@ class Solution {
     int MOD = 1_000_000_007;
     Integer[][][] dp;
     public int profitableSchemes(int n, int minProfit, int[] group, int[] profit) {
-        dp= new Integer[n+1][minProfit+1][profit.length+1];
+        dp= new Integer[n+1][minProfit+1][profit.length];
         return rec(n, group, profit, minProfit, 0, 0);
        
     }
@@ -18,8 +18,8 @@ class Solution {
         sum = Math.min(sum, target);
         if(dp[n][sum][idx]!=null)return dp[n][sum][idx];
         int count=0;
-        count+=rec(n-group[idx], group, profit, target, sum+profit[idx], idx+1);
-        count+=rec(n, group, profit, target, sum, idx+1);
+        count+=rec(n-group[idx], group, profit, target, sum+profit[idx], idx+1)% MOD;
+        count+=rec(n, group, profit, target, sum, idx+1)% MOD;
         return dp[n][sum][idx]=(count% MOD);
     }
 }
