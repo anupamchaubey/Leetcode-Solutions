@@ -1,6 +1,6 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int l=1, r=-1;
+        int l=1, r=0;
         int n=piles.length;
         for(int i=0;i<n;i++){
             r=Math.max(r, piles[i]);
@@ -18,16 +18,9 @@ class Solution {
         return ans;
     }
     boolean isValid(int[] piles, int k, int h){
-        int time=0;
+        long time=0;
         for(int i=0;i<piles.length;i++){
-            if(piles[i]<=k){
-                time++;
-            }else{
-                if(piles[i]%k==0)time+=(piles[i]/k);
-                else{
-                    time+=((piles[i]+k)/k);
-                }
-            }
+            time+=((piles[i]+k-1)/k);
         }
         return time<=h;
     }
