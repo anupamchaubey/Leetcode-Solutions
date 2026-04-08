@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
