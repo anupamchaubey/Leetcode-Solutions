@@ -23,7 +23,7 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        
+        if (root == null) return null;
         Node node=root;
         Queue<Node> q= new LinkedList<>();
 
@@ -31,10 +31,10 @@ class Solution {
         while(!q.isEmpty()){
             int size=q.size();
             Node prev=q.poll();
-            if(prev!=null && prev.left!=null){
+            if(prev.left!=null){
                 q.offer(prev.left);
             }
-            if(prev!=null && prev.right!=null){
+            if(prev.right!=null){
                 q.offer(prev.right);
             }
             for(int i=0;i<size-1;i++){
