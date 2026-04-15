@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
+| [0342-power-of-four](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0980-unique-paths-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
