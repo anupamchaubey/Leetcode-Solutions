@@ -5,6 +5,6 @@ class Solution {
             if(n<4 || n%4!=0)return false;
             n/=4;
         }
-        return true;
+        return false;
     }
 }
