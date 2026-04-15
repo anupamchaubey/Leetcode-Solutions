@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
+| [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -727,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
