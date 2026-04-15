@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
