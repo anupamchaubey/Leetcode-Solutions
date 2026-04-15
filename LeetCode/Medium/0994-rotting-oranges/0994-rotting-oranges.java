@@ -1,54 +1,54 @@
 class Solution {
-    class Pair {
-        int r, c, t;
-
-        public Pair(int r, int c, int t) {
-            this.r = r;
-            this.c = c;
-            this.t = t;
-        }
-    }
-
-    int[] dr = { -1, 1, 0, 0 };
-    int[] dc = { 0, 0, -1, 1 };
-
     public int orangesRotting(int[][] grid) {
-        return bfs(grid);
-    }
-
-    int bfs(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
+        int m = grid.length, n = grid[0].length;
+        Queue<int[]> q = new LinkedList<>();
         int fresh = 0;
-        Queue<Pair> q = new LinkedList<>();
+
+        // Step 1: initialize queue with all rotten oranges
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1)
+                if (grid[i][j] == 2) {
+                    q.offer(new int[]{i, j});
+                } else if (grid[i][j] == 1) {
                     fresh++;
-                else if (grid[i][j] == 2)
-                    q.offer(new Pair(i, j, 0));
-            }
-        }
-        if (fresh == 0)
-            return 0;
-        while (!q.isEmpty()) {
-            Pair curr = q.poll();
-            int r = curr.r;
-            int c = curr.c;
-            int t = curr.t;
-
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-                if (nr >= 0 && nc >= 0 && nr < m && nc < n && grid[nr][nc] == 1) {
-                    grid[nr][nc] = 2;
-                    fresh--;
-                    if (fresh == 0)
-                        return t + 1;
-                    q.offer(new Pair(nr, nc, t + 1));
                 }
             }
         }
-        return -1;
+
+        // Edge case: no fresh oranges
+        if (fresh == 0) return 0;
+
+        int[] dr = {-1, 1, 0, 0};
+        int[] dc = {0, 0, -1, 1};
+
+        int time = 0;
+
+        // Step 2: BFS
+        while (!q.isEmpty()) {
+            int size = q.size();
+            boolean spread = false;
+
+            for (int i = 0; i < size; i++) {
+                int[] curr = q.poll();
+                int r = curr[0], c = curr[1];
+
+                for (int d = 0; d < 4; d++) {
+                    int nr = r + dr[d];
+                    int nc = c + dc[d];
+
+                    if (nr >= 0 && nc >= 0 && nr < m && nc < n && grid[nr][nc] == 1) {
+                        grid[nr][nc] = 2;
+                        q.offer(new int[]{nr, nc});
+                        fresh--;
+                        spread = true;
+                    }
+                }
+            }
+
+            // only increment time if something actually rotted
+            if (spread) time++;
+        }
+
+        return fresh == 0 ? time : -1;
     }
 }
