@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0072-edit-distance](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
@@ -602,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
