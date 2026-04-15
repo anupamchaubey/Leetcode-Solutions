@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
 | [0337-house-robber-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
+| [0338-counting-bits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
