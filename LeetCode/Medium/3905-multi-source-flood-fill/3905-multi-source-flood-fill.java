@@ -9,14 +9,12 @@ class Solution {
         int[] dr = { -1, 1, 0, 0 };
         int[] dc = { 0, 0, -1, 1 };
 
-        boolean visited[][] = new boolean[m][n];
         for (int i = 0; i < sources.length; i++) {
             int r = sources[i][0];
             int c = sources[i][1];
             int color = sources[i][2];
             q.offer(new int[] { r, c, color });
             grid[r][c] = color;
-            visited[r][c] = true;
         }
         while (!q.isEmpty()) {
             int size = q.size();
@@ -28,10 +26,9 @@ class Solution {
                 for (int p = 0; p < 4; p++) {
                     int nr = i + dr[p];
                     int nc = j + dc[p];
-                    if (nr >= 0 && nr < m && nc >= 0 && nc < n && !visited[nr][nc]) {
+                    if (nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc]==0) {
                         grid[nr][nc] = Math.max(grid[nr][nc], c);
                         q.offer(new int[] { nr, nc, grid[nr][nc]});
-                        visited[nr][nc]=true;
                     }
                 }
             }
