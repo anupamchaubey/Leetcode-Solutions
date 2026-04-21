@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1035-uncrossed-lines](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0879-profitable-schemes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [1035-uncrossed-lines](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
