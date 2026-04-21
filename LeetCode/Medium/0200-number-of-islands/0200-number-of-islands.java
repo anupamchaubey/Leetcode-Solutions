@@ -1,59 +1,29 @@
 class Solution {
-    int[] parent;
-    int[] rank;
-
-    int find(int x){
-        if(parent[x]!=x)parent[x]=find(parent[x]);
-        return parent[x];
-    }
-    void union(int x, int y){
-        int px=find(x);
-        int py=find(y);
-        if(px==py)return;
-
-        if(rank[px]>rank[py]){
-            parent[py]=px;
-        }else if(rank[py]>rank[px]){
-            parent[px]=py;
-        }else{
-            parent[py]=px;
-            rank[px]++;
-        }
-    }
+    int m, n;
+    int[] dr={-1, 1, 0, 0};
+    int[] dc={0, 0, -1, 1};
     public int numIslands(char[][] grid) {
-        int r=grid.length;
-        int c=grid[0].length;
-        int n=r*c;
-        parent=new int[n];
-        rank=new int[n];
-
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-            rank[i]=1;
-        }
-        int cnt=0;
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                if(grid[i][j]=='1'){
-                    cnt++;
-                    int id=i*c+j;
-                    //up
-                    if(i>0 && grid[i-1][j]=='1'){
-                        if(find(id)!=find((i-1)*c+j)){
-                            union(id, (i-1)*c+j);
-                            cnt--;
-                        }
-                    }
-                    //left
-                    if(j>0 && grid[i][j-1]=='1'){
-                        if(find(id)!=find(i*c+(j-1))){
-                            union(id, i*c+(j-1));
-                            cnt--;
-                        }
-                    }
+        m=grid.length;
+        n=grid[0].length;
+        boolean[][] visited=new boolean[m][n];
+        int count=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(!visited[i][j] && grid[i][j]=='1'){
+                    dfs(grid, i, j, visited);
+                    count++;
                 }
             }
         }
-        return cnt;
+        return count;
+    }
+    void dfs(char[][] grid, int r, int c, boolean[][] visited){
+        if(r>=m || c>=n || r<0 || c<0 || visited[r][c] || grid[r][c]=='0')return;
+        visited[r][c]=true;
+        for(int i=0;i<4;i++){
+            int nr=r+dr[i];
+            int nc=c+dc[i];
+            dfs(grid, nr, nc, visited);
+        }
     }
 }
