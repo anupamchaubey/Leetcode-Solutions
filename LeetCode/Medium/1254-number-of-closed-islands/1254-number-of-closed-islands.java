@@ -2,6 +2,8 @@ class Solution {
     int rows;
     int cols;
 
+    int[] dr={-1, 1, 0, 0};
+    int[] dc={0, 0, -1,1 };
     public int closedIsland(int[][] grid) {
         rows = grid.length;
         cols = grid[0].length;
@@ -27,11 +29,13 @@ class Solution {
             return true;
 
         grid[i][j] = 1;
-        boolean left = dfs(grid, i, j - 1);
-        boolean up = dfs(grid, i - 1, j);
-        boolean down = dfs(grid, i + 1, j);
-        boolean right = dfs(grid, i, j + 1);
-        return left && right && up && down;
+        boolean closed=true;
+        for(int p=0;p<4;p++){
+            int r=i+dr[p];
+            int c=j+dc[p];
+            closed=closed && dfs(grid, r, c);
+        }
+        return closed;
 
     }
 }
