@@ -33,7 +33,7 @@ class Solution {
         for(int p=0;p<4;p++){
             int r=i+dr[p];
             int c=j+dc[p];
-            closed=closed && dfs(grid, r, c);
+            closed&=dfs(grid, r, c);
         }
         return closed;
 
