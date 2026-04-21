@@ -1,13 +1,17 @@
 class Solution {
-    int[] r={1, -1, 0, 0};
-    int[] c={0, 0, -1, 1};
+    int[] dr={-1, 1, 0, 0};
+    int[] dc={0, 0, -1, 1};
+    int m, n;
     public void solve(char[][] board) {
-        int m=board.length;
-        int n=board[0].length;
+        m=board.length;
+        n=board[0].length;
+
         for(int i=0;i<m;i++){
             if(board[i][0]=='O'){
                 dfs(board, i, 0);
             }
+        }
+        for(int i=0;i<m;i++){
             if(board[i][n-1]=='O'){
                 dfs(board, i, n-1);
             }
@@ -16,30 +20,45 @@ class Solution {
             if(board[0][i]=='O'){
                 dfs(board, 0, i);
             }
+        }
+        for(int i=0;i<n;i++){
             if(board[m-1][i]=='O'){
                 dfs(board, m-1, i);
             }
         }
+
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(board[i][j]=='O'){
-                    board[i][j]='X';
+                    dfs2(board, i, j);
                 }
+            }
+        }
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(board[i][j]=='P'){
                     board[i][j]='O';
                 }
             }
         }
-
     }
-    void dfs(char[][] board, int i, int j){
-        board[i][j]='P';
-        for(int p=0;p<4;p++){
-            int nr=i+r[p];
-            int nc=j+c[p];
-            if(nr>=0 && nr<board.length && nc>=0 && nc<board[0].length && board[nr][nc]=='O'){
-                dfs(board, nr, nc);
-            }
+    void dfs(char[][] grid, int r, int c){
+        if(r<0 || c<0 || r>=m || c>=n || grid[r][c]!='O')return;
+        grid[r][c]='P';
+        for(int i=0;i<4;i++){
+            int nr=r+dr[i];
+            int nc=c+dc[i];
+            dfs(grid, nr, nc);
         }
     }
+    void dfs2(char[][] grid, int r, int c){
+        if(r<0 || c<0 || r>=m || c>=n || grid[r][c]!='O')return;
+        grid[r][c]='X';
+        for(int i=0;i<4;i++){
+            int nr=r+dr[i];
+            int nc=c+dc[i];
+            dfs2(grid, nr, nc);
+        }
+    }
+
 }
