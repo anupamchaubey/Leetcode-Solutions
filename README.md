@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1109-corporate-flight-bookings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1345-jump-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0980-unique-paths-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1345-jump-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -696,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0839-similar-string-groups](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0886-possible-bipartition/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
