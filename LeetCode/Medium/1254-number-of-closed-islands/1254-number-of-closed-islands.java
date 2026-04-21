@@ -1,41 +1,37 @@
 class Solution {
-    int[] dr = { -1, 1, 0, 0 };
-    int[] dc = { 0, 0, -1, 1 };
-    int m, n;
+    int rows;
+    int cols;
 
     public int closedIsland(int[][] grid) {
-        m = grid.length;
-        n = grid[0].length;
-
-        boolean[][] visited = new boolean[m][n];
-        
+        rows = grid.length;
+        cols = grid[0].length;
         int count = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (!visited[i][j] && grid[i][j] == 0) {
-                    if(dfs(grid, i, j, visited)){
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[i].length; j++) {
+                if (grid[i][j] == 0) {
+                    if (dfs(grid, i, j)) {
                         count++;
                     }
                 }
             }
         }
         return count;
+
     }
 
-    boolean dfs(int[][] grid, int r, int c, boolean[][] visited) {
-        if(r>=m || c>=n || r<0 || c<0 )return false;
-        
-       
-        if(grid[r][c]==1)return true;
-        if(visited[r][c])return true;
-        visited[r][c]=true;
+    boolean dfs(int[][] grid, int i, int j) {
+        if (i < 0 || j < 0 || i >= rows || j >= cols)
+            return false;
 
-        boolean closed=true;
-        for (int i = 0; i < 4; i++) {
-            int nr = r + dr[i];
-            int nc = c + dc[i];
-            if(!dfs(grid, nr, nc, visited))closed= false;
-        }
-        return closed;
+        if (grid[i][j] == 1)
+            return true;
+
+        grid[i][j] = 1;
+        boolean left = dfs(grid, i, j - 1);
+        boolean up = dfs(grid, i - 1, j);
+        boolean down = dfs(grid, i + 1, j);
+        boolean right = dfs(grid, i, j + 1);
+        return left && right && up && down;
+
     }
 }
