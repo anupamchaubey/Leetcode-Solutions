@@ -8,29 +8,29 @@ class Solution {
 
         for(int i=0;i<m;i++){
             if(board[i][0]=='O'){
-                dfs(board, i, 0);
+                dfs(board, i, 0, true);
             }
         }
         for(int i=0;i<m;i++){
             if(board[i][n-1]=='O'){
-                dfs(board, i, n-1);
+                dfs(board, i, n-1, true);
             }
         }
         for(int i=0;i<n;i++){
             if(board[0][i]=='O'){
-                dfs(board, 0, i);
+                dfs(board, 0, i, true);
             }
         }
         for(int i=0;i<n;i++){
             if(board[m-1][i]=='O'){
-                dfs(board, m-1, i);
+                dfs(board, m-1, i, true);
             }
         }
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(board[i][j]=='O'){
-                    dfs2(board, i, j);
+                    dfs(board, i, j, false);
                 }
             }
         }
@@ -42,22 +42,18 @@ class Solution {
             }
         }
     }
-    void dfs(char[][] grid, int r, int c){
+    void dfs(char[][] grid, int r, int c, boolean flag){
         if(r<0 || c<0 || r>=m || c>=n || grid[r][c]!='O')return;
-        grid[r][c]='P';
-        for(int i=0;i<4;i++){
-            int nr=r+dr[i];
-            int nc=c+dc[i];
-            dfs(grid, nr, nc);
+        
+        if(flag){
+            grid[r][c]='P';
+        }else{
+            grid[r][c]='X';
         }
-    }
-    void dfs2(char[][] grid, int r, int c){
-        if(r<0 || c<0 || r>=m || c>=n || grid[r][c]!='O')return;
-        grid[r][c]='X';
         for(int i=0;i<4;i++){
             int nr=r+dr[i];
             int nc=c+dc[i];
-            dfs2(grid, nr, nc);
+            dfs(grid, nr, nc, flag);
         }
     }
 
