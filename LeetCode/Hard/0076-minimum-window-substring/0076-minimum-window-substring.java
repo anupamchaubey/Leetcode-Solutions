@@ -1,31 +1,57 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int[] freq=new int[128];
-        for(char ch: t.toCharArray()){
-            freq[ch]++;
+
+        int[] ch = new int[128];
+        for (char c : t.toCharArray()) {
+            ch[c]++;
         }
-        int left=0;
-        int need=t.length();
-        int start=0;
-        int max=Integer.MAX_VALUE;
-        for(int right=0;right<s.length();right++){
-            if(freq[s.charAt(right)]>0){
-                need--;
+        int count = t.length();
+
+        int min = Integer.MAX_VALUE;
+        int st = -1, en = -1;
+        int i = 0, j = 0;
+        while (j < s.length()) {
+
+            if (ch[s.charAt(j)] > 0) {
+                count--;
             }
-            freq[s.charAt(right)]--;
-            while(need==0){
-                if(right-left+1<max){
-                    max=right-left+1;
-                    start=left;
+            ch[s.charAt(j)]--;
+
+            while (count == 0) {
+                if (min > (j - i + 1)) {
+                    min = j - i + 1;
+                    st = i;
+                    en = j + 1;
                 }
-                if(freq[s.charAt(left)]==0){
-                    need++;
-                }
-                freq[s.charAt(left)]++;
-                left++;
+
+                ch[s.charAt(i)]++;
+                if (ch[s.charAt(i)] > 0)
+                    count++;
+
+                i++;
             }
+            j++;
         }
-        if(max==Integer.MAX_VALUE)return "";
-        return s.substring(start, start+max);
+        if (st == -1)
+            return "";
+        return s.substring(st, en);
+
+    }
+
+    boolean isValid(String s, String t) {
+        int[] chars = new int[128];
+        for (char ch : t.toCharArray()) {
+            chars[ch]++;
+        }
+        for (char ch : s.toCharArray()) {
+            chars[ch]--;
+
+        }
+        for (int x : chars) {
+            if (x > 0)
+                return false;
+        }
+        return true;
+
     }
 }
