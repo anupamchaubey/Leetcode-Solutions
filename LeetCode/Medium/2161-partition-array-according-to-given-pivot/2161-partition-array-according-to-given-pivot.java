@@ -1,32 +1,21 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        int i=0, j=0, k=nums.length-1;
+        int n=nums.length;
+        int[] res = new int[n];
 
-        while(j<=k){
-            if(nums[j]<pivot){
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
-                j++;
-                i++;
-            }else if(nums[j]==pivot){
-                j++;
-            }else{
-                int temp=nums[k];
-                nums[k]=nums[j];
-                nums[j]=temp;
-                k--;
+        int l=0, r=n-1;
+        for(int i=0, j=n-1; i<n && j>=0; i++, j--){
+            if(nums[i]<pivot){
+                res[l++]=nums[i];
+            }
+            if(nums[j]>pivot){
+                res[r--]=nums[j];
             }
         }
-        i=k+1;
-        j=nums.length-1;
-        while(i<j){
-            int temp=nums[i];
-            nums[i]=nums[j];
-            nums[j]=temp;
-            i++;
-            j--;
+        while(l<=r){
+            res[l++]=pivot;
         }
-        return nums;
+        return res;
+        
     }
 }
