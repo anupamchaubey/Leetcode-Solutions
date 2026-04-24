@@ -1,28 +1,22 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        
-        int n=nums.length;
-
-        //find the linear max
+        int total=0;
         int max=Integer.MIN_VALUE;
         int sum=0;
-        int total=0;
-
-        for(int i=0;i<n;i++){
-            total+=nums[i];
+        for(int i=0;i<nums.length;i++){
             sum+=nums[i];
-            max=Math.max(max, sum);
+            max=Math.max(sum, max);
             if(sum<0)sum=0;
+            total+=nums[i];
         }
-        //find the minimum subarray to subtract from the circular array, which gives the right answer
+        
         int min=Integer.MAX_VALUE;
-        sum=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<nums.length;i++){
             sum+=nums[i];
             min=Math.min(sum, min);
             if(sum>0)sum=0;
         }
         if(total==min)return max;
-        return Math.max(max, total-min);
+        return Math.max(total-min, max);
     }
 }
