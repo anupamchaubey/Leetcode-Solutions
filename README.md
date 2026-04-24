@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2845-count-of-interesting-subarrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2845-count-of-interesting-subarrays/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
 | [2845-count-of-interesting-subarrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2845-count-of-interesting-subarrays/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Tree
