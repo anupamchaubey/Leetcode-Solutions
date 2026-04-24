@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 ## Memoization
