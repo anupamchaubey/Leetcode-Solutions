@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0312-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
@@ -598,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
@@ -769,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
@@ -811,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -825,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
@@ -848,4 +855,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
