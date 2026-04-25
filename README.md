@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
