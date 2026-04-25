@@ -3,7 +3,7 @@ class Solution {
         s=s.toLowerCase();
         StringBuilder sb= new StringBuilder();
         for(char ch: s.toCharArray()){
-            if(ch>=97 && ch<=122){
+            if(ch>=97 && ch<=122 || ch>=48 && ch<=57){
                 sb.append(ch);
             }
         }
