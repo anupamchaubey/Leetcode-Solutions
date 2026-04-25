@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1035-uncrossed-lines](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1046-last-stone-weight](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
@@ -778,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1046-last-stone-weight](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
