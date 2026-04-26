@@ -9,14 +9,17 @@ class Solution {
         }
         if (hm.size() < k)
             return ls;
+
         PriorityQueue<String> pq = new PriorityQueue<>((a, b) -> {
             if (hm.get(a) != hm.get(b))
                 return Integer.compare(hm.get(b), hm.get(a));
             return a.compareTo(b);
         });
+
         for (String word : hm.keySet()) {
             pq.offer(word);
         }
+
         for (int i = 0; i < k; i++) {
             ls.add(pq.poll());
         }
