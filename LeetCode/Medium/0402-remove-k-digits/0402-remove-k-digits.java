@@ -24,8 +24,6 @@ class Solution {
             st.pop();
         }
 
-        System.out.println(st);
-
         StringBuilder sb = new StringBuilder();
 
         while (!st.isEmpty()) {
