@@ -880,4 +880,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
