@@ -884,4 +884,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [1683-invalid-tweets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
