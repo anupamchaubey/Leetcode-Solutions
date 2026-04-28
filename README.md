@@ -883,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
