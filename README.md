@@ -884,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [0619-biggest-single-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
