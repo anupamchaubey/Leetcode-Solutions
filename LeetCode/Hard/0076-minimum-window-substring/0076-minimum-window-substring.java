@@ -1,57 +1,35 @@
 class Solution {
     public String minWindow(String s, String t) {
-
-        int[] ch = new int[128];
-        for (char c : t.toCharArray()) {
-            ch[c]++;
+        int[] freq=new int[128];
+        for(char ch:t.toCharArray()){
+            freq[ch]--;
         }
-        int count = t.length();
 
-        int min = Integer.MAX_VALUE;
-        int st = -1, en = -1;
-        int i = 0, j = 0;
-        while (j < s.length()) {
+        int count=t.length();
 
-            if (ch[s.charAt(j)] > 0) {
-                count--;
-            }
-            ch[s.charAt(j)]--;
+        int min=Integer.MAX_VALUE;
+        int st=-1;
+        int en=-1;
 
-            while (count == 0) {
-                if (min > (j - i + 1)) {
-                    min = j - i + 1;
-                    st = i;
-                    en = j + 1;
+        int l=0;
+
+        for(int i=0;i<s.length();i++){
+            if(freq[s.charAt(i)]<0)count--;
+            freq[s.charAt(i)]++;
+            
+            while(l<s.length() && count==0){
+                freq[s.charAt(l)]--;
+                if(freq[s.charAt(l)]<0)count++;
+                if(min>i-l+1){
+                    min=Math.min(min, i-l+1);
+                    st=l;
+                    en=i+1;
                 }
-
-                ch[s.charAt(i)]++;
-                if (ch[s.charAt(i)] > 0)
-                    count++;
-
-                i++;
+                l++;
             }
-            j++;
         }
-        if (st == -1)
-            return "";
+        if(st==-1)return "";
         return s.substring(st, en);
-
     }
 
-    boolean isValid(String s, String t) {
-        int[] chars = new int[128];
-        for (char ch : t.toCharArray()) {
-            chars[ch]++;
-        }
-        for (char ch : s.toCharArray()) {
-            chars[ch]--;
-
-        }
-        for (int x : chars) {
-            if (x > 0)
-                return false;
-        }
-        return true;
-
-    }
 }
