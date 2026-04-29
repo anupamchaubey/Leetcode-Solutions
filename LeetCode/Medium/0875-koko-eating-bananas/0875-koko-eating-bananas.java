@@ -1,10 +1,10 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int l=1, r=0;
-        int n=piles.length;
-        for(int i=0;i<n;i++){
-            r=Math.max(r, piles[i]);
+        int r=-1;
+        for(int x: piles){
+            r=Math.max(x, r);
         }
+        int l=1;
         int ans=-1;
         while(l<=r){
             int mid=l+(r-l)/2;
@@ -17,11 +17,12 @@ class Solution {
         }
         return ans;
     }
-    boolean isValid(int[] piles, int k, int h){
-        long time=0;
+    boolean isValid(int[] piles, int speed, int h){
+        int time=0;
         for(int i=0;i<piles.length;i++){
-            time+=((piles[i]+k-1)/k);
+            time+=(piles[i]+speed-1)/speed;
         }
         return time<=h;
     }
+
 }
