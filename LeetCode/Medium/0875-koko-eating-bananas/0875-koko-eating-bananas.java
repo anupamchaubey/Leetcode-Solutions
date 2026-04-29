@@ -18,7 +18,7 @@ class Solution {
         return ans;
     }
     boolean isValid(int[] piles, int speed, int h){
-        int time=0;
+        long time=0;
         for(int i=0;i<piles.length;i++){
             time+=(piles[i]+speed-1)/speed;
         }
