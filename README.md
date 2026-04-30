@@ -896,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0176-second-highest-salary](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
+| [0197-rising-temperature](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0595-big-countries](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
