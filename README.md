@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0839-similar-string-groups](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0839-similar-string-groups/) | Hard |
 | [0860-lemonade-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0650-2-keys-keyboard/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
