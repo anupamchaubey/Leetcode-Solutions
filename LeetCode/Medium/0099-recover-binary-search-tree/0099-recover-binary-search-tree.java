@@ -13,6 +13,15 @@
  *     }
  * }
  */
+
+/*
+
+In a valid BST, an inorder traversal visits nodes in ascending order. If two nodes are swapped, this sorted property is broken.
+
+The First Mistake: This is the first time we see the order break. The incorrect node is the prev node (the larger value that appeared too early).
+
+The Second Mistake: This is the last time we see the order break. The incorrect node is the current node (the smaller value that appeared too late).
+*/
 class Solution {
     TreeNode first=null;
     TreeNode second=null;
@@ -35,5 +44,4 @@ class Solution {
         prev=root;
         inorder(root.right);
     }
-    
 }
