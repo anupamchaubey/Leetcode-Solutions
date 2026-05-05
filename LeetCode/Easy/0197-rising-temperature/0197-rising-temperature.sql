@@ -1,9 +1,7 @@
 # Write your MySQL query statement below
 
-Select w.id
+select w.id
 From Weather w
-where w.temperature>(
-    Select nw.temperature
-    From Weather nw
-    Where Datediff(w.recordDate, nw.recordDate)=1
-)
+Join Weather c
+
+where DateDiff(w.recordDate, c.recordDate)=1 and c.temperature<w.temperature
