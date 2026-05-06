@@ -13,7 +13,7 @@ class Solution {
         int pair=0;
         for(int i=0;i<n;i++){
             int rem=((arr[i]%k)+k)%k;
-            int need=((k-rem)%k);
+            int need=((k-rem)%k+k)%k;
             if(freq[rem]!=0){
                 pair++;
                 freq[rem]--;
