@@ -28,29 +28,12 @@ class Solution {
         }
         right=temp;
 
-        // if(left==list1){
-        //     temp=list2;
-        //     while(temp.next!=null){
-        //         temp=temp.next;
-        //     }
-        //     temp.next=right;
-        //     return list2;
-        // }
-        // if(list2==null){
-        //     if(left!=null){
-        //         left.next=right;
-        //     }
-        //     return list1;
-        // }
-        System.out.println(left.val);
         left.next=list2;
         temp=list2;
         while(temp.next!=null){
-            System.out.println(temp.val);
             temp=temp.next;
         }
         temp.next=right;
-        System.out.println(right.val);
         return list1;
     }   
 }
