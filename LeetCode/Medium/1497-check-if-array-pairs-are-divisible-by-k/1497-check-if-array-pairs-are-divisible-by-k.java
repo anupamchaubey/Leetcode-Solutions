@@ -1,25 +1,17 @@
 class Solution {
     public boolean canArrange(int[] arr, int k) {
-        int n=arr.length;
-        if(n%2!=0)return false;
-
-        int[] freq=new int[k];
-
-        for(int i=0;i<n;i++){
-            int div=((arr[i]%k)+k)%k;
-            freq[div]++;
+        int count=0;
+        HashMap<Integer, Integer> hm= new HashMap<>();
+        for(int x: arr){
+            int rem=((x%k)+k)%k;
+            int need=(k-rem)%k;
+            if(hm.containsKey(need)){
+                count++;
+                hm.put(need, hm.get(need)-1);
+                if(hm.get(need)==0)hm.remove(need);
+            }else hm.put(rem, hm.getOrDefault(rem, 0)+1);
+            
         }
-
-        int pair=0;
-        for(int i=0;i<n;i++){
-            int rem=((arr[i]%k)+k)%k;
-            int need=((k-rem)%k+k)%k;
-            if(freq[need]!=0){
-                pair++;
-                freq[rem]--;
-                freq[need]--;
-            }
-        }
-        return pair==n/2;
+        return count==arr.length/2;
     }
 }
