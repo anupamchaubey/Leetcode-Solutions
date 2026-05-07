@@ -1,24 +1,24 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-
+        int totalcostneeded = 0;
         int totalgas = 0;
-        int totalcost = 0;
-        for (int i = 0; i < gas.length; i++) {
+        int n = gas.length;
+        for (int i = 0; i < n; i++) {
             totalgas += gas[i];
-            totalcost += cost[i];
+            totalcostneeded += cost[i];
         }
-        if (totalgas < totalcost)
+        if (totalcostneeded > totalgas)
             return -1;
 
-        int gases = 0;
-        int start = 0;
-        for (int i = 0; i < gas.length; i++) {
-            gases += (gas[i] - cost[i]);
-            if (gases < 0) {
-                gases = 0;
-                start = i + 1;
+        int fueltillhere = 0;
+        int startindex = 0;
+        for (int i = 0; i < n; i++) {
+            fueltillhere += (gas[i] - cost[i]);
+            if (fueltillhere < 0) {
+                fueltillhere = 0;
+                startindex = i + 1;
             }
         }
-        return start;
+        return startindex;
     }
 }
