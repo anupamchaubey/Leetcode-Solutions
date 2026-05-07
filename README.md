@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -741,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
