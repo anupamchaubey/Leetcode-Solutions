@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1642-furthest-building-you-can-reach/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1649-create-sorted-array-through-instructions/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1642-furthest-building-you-can-reach](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1642-furthest-building-you-can-reach/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Breadth-First Search
@@ -851,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1642-furthest-building-you-can-reach/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
