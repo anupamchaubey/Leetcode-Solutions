@@ -1,19 +1,17 @@
 class Solution {
-    //GREEDY SOLUTION
-    //WHEN U REACH THE END OF CURRENT JUMP RANGE, U MUST JUMP AND EXTEND THE RANGE TO THE FARTHEST REACHABLE INDEX
-    
+    int[] dp;
     public int jump(int[] nums) {
-
-        int jumps=0;
-        int farthest=0;
-        int currEnd=0;
-        for(int i=0;i<nums.length-1;i++){
-            farthest=Math.max(farthest, i+nums[i]);
-            if(i>=currEnd){
-                jumps++;
-                currEnd=farthest;
-            }
+        dp=new int[nums.length];
+        Arrays.fill(dp, Integer.MIN_VALUE);
+        return rec(nums, 0);
+    }
+    int rec(int[] nums, int idx){
+        if(idx==nums.length-1)return 0;
+        if(dp[idx]!=Integer.MIN_VALUE)return dp[idx];
+        int jumps=Integer.MAX_VALUE/2;
+        for(int i=idx+1;i<nums.length && i<=idx+nums[idx];i++){
+            jumps=Math.min(jumps, 1+rec(nums, i));
         }
-        return jumps;
+        return dp[idx]=jumps;
     }
 }
