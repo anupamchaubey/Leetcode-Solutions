@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0839-similar-string-groups](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0839-similar-string-groups/) | Hard |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0879-profitable-schemes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
