@@ -4,7 +4,7 @@ class Solution {
         HashMap<Integer, Long> hm=new HashMap<>();
 
         for(int t: tasks){
-            if(hm.containsKey(t) && time<=hm.get(t)+space+1){
+            if(hm.containsKey(t) && time<=hm.get(t)+space){
                 time=hm.get(t)+space+1;
             }else{
                 time++;
