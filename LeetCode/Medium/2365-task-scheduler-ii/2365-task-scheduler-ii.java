@@ -1,14 +1,16 @@
 class Solution {
     public long taskSchedulerII(int[] tasks, int space) {
-        long days=0;
+        long time=0;
         HashMap<Integer, Long> hm=new HashMap<>();
-        for(int task: tasks){
-            days++;
-            if(hm.containsKey(task) && hm.get(task)>=days){
-                days=hm.get(task);
+
+        for(int t: tasks){
+            if(hm.containsKey(t) && time<=hm.get(t)+space+1){
+                time=hm.get(t)+space+1;
+            }else{
+                time++;
             }
-            hm.put(task, days+space+1);
+            hm.put(t, time);
         }
-        return days;
+        return time;
     }
 }
