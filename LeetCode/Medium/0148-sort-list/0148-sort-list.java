@@ -10,44 +10,43 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        return divide(head);
-    }
-    ListNode divide(ListNode head){
-        if(head==null || head.next==null)return head; 
+        if(head==null || head.next==null)return head;
+
         ListNode slow=head;
         ListNode fast=head.next;
-
+        
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
+
         ListNode mid=slow.next;
         slow.next=null;
-        ListNode l1=divide(head);
-        ListNode l2=divide(mid);
+        
+        ListNode l1=sortList(head);
+        ListNode l2=sortList(mid);
 
         return merge(l1, l2);
     }
     ListNode merge(ListNode l1, ListNode l2){
 
-        ListNode dum=new ListNode(0);
-        ListNode dummy=dum;
+        ListNode dummy=new ListNode(0);
+        ListNode temp=dummy;
+
         while(l1!=null && l2!=null){
             if(l1.val<=l2.val){
-                dummy.next=l1;
+                temp.next=l1;
                 l1=l1.next;
             }else{
-                dummy.next=l2;
+                temp.next=l2;
                 l2=l2.next;
             }
-            dummy=dummy.next;
+            temp=temp.next;
         }
-        if(l1!=null){
-            dummy.next=l1;
-        }
-        if(l2!=null){
-            dummy.next=l2;
-        }
-        return dum.next;
+        
+        if(l1!=null)temp.next=l1;
+        if(l2!=null)temp.next=l2;
+
+        return dummy.next;
     }
 }
