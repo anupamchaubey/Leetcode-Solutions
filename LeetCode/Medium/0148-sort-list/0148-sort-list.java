@@ -10,25 +10,44 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
+        return divide(head);
+    }
+    ListNode divide(ListNode head){
+        if(head==null || head.next==null)return head; 
+        ListNode slow=head;
+        ListNode fast=head.next;
 
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
-
-        ListNode temp = head;
-        while (temp != null) {
-            pq.offer(temp);
-            temp = temp.next;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        if (pq.isEmpty())
-            return head;
+        ListNode mid=slow.next;
+        slow.next=null;
+        ListNode l1=divide(head);
+        ListNode l2=divide(mid);
 
-        head = pq.poll();
-        temp = head;
-        while (!pq.isEmpty()) {
-            temp.next = pq.poll();
-            temp = temp.next;
+        return merge(l1, l2);
+    }
+    ListNode merge(ListNode l1, ListNode l2){
+
+        ListNode dum=new ListNode(0);
+        ListNode dummy=dum;
+        while(l1!=null && l2!=null){
+            if(l1.val<=l2.val){
+                dummy.next=l1;
+                l1=l1.next;
+            }else{
+                dummy.next=l2;
+                l2=l2.next;
+            }
+            dummy=dummy.next;
         }
-        temp.next = null;
-
-        return head;
+        if(l1!=null){
+            dummy.next=l1;
+        }
+        if(l2!=null){
+            dummy.next=l2;
+        }
+        return dum.next;
     }
 }
