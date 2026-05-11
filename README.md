@@ -584,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1669-merge-in-between-linked-lists/) | Medium |
 ## Stack
@@ -972,4 +974,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1661-average-time-of-process-per-machine](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1934-confirmation-rate](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
