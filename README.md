@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
@@ -785,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0092-reverse-linked-list-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
