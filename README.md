@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
