@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0052-n-queens-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
