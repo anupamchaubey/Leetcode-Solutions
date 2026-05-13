@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0052-n-queens-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
@@ -577,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0099-recover-binary-search-tree/) | Medium |
