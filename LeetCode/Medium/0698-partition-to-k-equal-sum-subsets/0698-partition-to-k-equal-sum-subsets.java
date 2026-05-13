@@ -1,37 +1,45 @@
 class Solution {
+    int sum;
     public boolean canPartitionKSubsets(int[] nums, int k) {
-        int val = 0;
-
-        for (int i : nums) {
-            val += i;
-        }
-        if (val % k != 0)
+        int totalsum = 0;
+        for (int x : nums)
+            totalsum += x;
+        if (totalsum % k != 0)
             return false;
-        val /= k;
+        sum = totalsum / k;
         int[] arr = new int[k];
         Arrays.sort(nums);
-        return rec(nums, arr, 0, val);
+        reverse(nums);
+        if(nums[0]>sum)return false;
+        return rec(nums, arr, 0);
+    }
+    void reverse(int[] nums){
+        int i=0, j=nums.length-1;
+        while(i<j){
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+            i++;
+            j--;
+        }
     }
 
-    boolean rec(int[] nums, int[] arr, int idx, int target) {
-        if (idx >= nums.length) {
-            boolean ans = true;
+    boolean rec(int[] nums, int[] arr, int idx) {
+        if (idx == nums.length) {
             for (int i = 0; i < arr.length; i++) {
-                if (arr[i] != target)
-                    ans = false;
+                if (arr[i] != sum)
+                    return false;
             }
-            return ans;
+            return true;
         }
-        for (int i = arr.length - 1; i >= 0; i--) {
-            if(arr[i]+nums[idx]>target)continue;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] + nums[idx] > sum)
+                continue;
             arr[i] += nums[idx];
-            
-            boolean ans = rec(nums, arr, idx + 1, target);
-            if (ans)
-                return ans;
+            if (rec(nums, arr, idx + 1))
+                return true;
             arr[i] -= nums[idx];
-            // important pruning
-            if (arr[i] == 0) break;
+            if(arr[i]==0)break;
         }
         return false;
     }
