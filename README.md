@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
+| [0282-expression-add-operators](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0282-expression-add-operators/) | Hard |
 | [0342-power-of-four](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
+| [0282-expression-add-operators](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0282-expression-add-operators/) | Hard |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
+| [0282-expression-add-operators](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0282-expression-add-operators/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
