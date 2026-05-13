@@ -1,8 +1,9 @@
 
 class Solution {
     int ans = 0;
+
     public int totalNQueens(int n) {
-        
+
         char[][] grid = new char[n][n];
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
@@ -27,7 +28,6 @@ class Solution {
             }
         }
     }
-
 
     boolean isValid(char[][] grid, int r, int col) {
         for (int i = 0; i < grid.length; i++) {
