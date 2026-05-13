@@ -32,40 +32,34 @@ class Solution {
     }
 
     boolean isValid(String s) {
-
-        List<Long> stack = new ArrayList<>();
+        Stack<Long> st = new Stack<>();
 
         long num = 0;
         char op = '+';
 
-        for (int i = 0; i < s.length(); i++) {
-
-            char ch = s.charAt(i);
-
+        for (int i=0;i<s.length();i++) {
+            char ch=s.charAt(i);
             if (Character.isDigit(ch)) {
                 num = num * 10 + (ch - '0');
-            }
-
-            if (!Character.isDigit(ch) || i == s.length() - 1) {
-
-                if (op == '+') {
-                    stack.add(num);
-                } else if (op == '-') {
-                    stack.add(-num);
-                } else if (op == '*') {
-
-                    long last = stack.remove(stack.size() - 1);
-                    stack.add(last * num);
+            } 
+            if(!Character.isDigit(ch) || i == s.length() - 1) {
+                if (op == '+')
+                    st.push(num);
+                else if (op == '-')
+                    st.push(-num);
+                else {
+                    if(st.isEmpty())return false;
+                    long last = st.pop();
+                    st.push(last * num);
                 }
-
-                op = ch;
+                op=ch;
                 num = 0;
             }
         }
 
         long sum = 0;
 
-        for (long val : stack) {
+        for (long val : st) {
             sum += val;
         }
 
