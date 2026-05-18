@@ -1,24 +1,29 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int max=0;
-        int st=0,en=0;
-        int n=s.length();
-        if(n==0)return "";
-        boolean[][] pal=new boolean[n][n];
-        for(int j=0;j<n;j++){
-            for(int i=0;i<=j;i++){
-                if(s.charAt(i)==s.charAt(j)){
-                    if(j-i<=2 || pal[i+1][j-1]){
-                        pal[i][j]=true;
-                        if(j-i+1>max){
-                            max=j-i+1;
-                            st=i;
-                            en=j;
-                        }
-                    }
+        if("".equals(s))return s;
+        String ans=s.charAt(0)+"";
+        for(int i=0;i<s.length();i++){
+            if(i-1>=0 && i+1<s.length() && s.charAt(i-1)==s.charAt(i+1)){
+                int p=i-1, q=i+1;
+                while(p>=0 && q<s.length() && s.charAt(p)==s.charAt(q)){
+                    p--;
+                    q++;
+                }
+                if(s.substring(p+1, q).length()>ans.length()){
+                    ans=s.substring(p+1, q);
+                }
+            }
+            if(i-1>=0 && s.charAt(i)==s.charAt(i-1)){
+                int p=i-1, q=i;
+                while(p>=0 && q<s.length() && s.charAt(p)==s.charAt(q)){
+                    p--;
+                    q++;
+                }
+                if(s.substring(p+1, q).length()>ans.length()){
+                    ans=s.substring(p+1, q);
                 }
             }
         }
-        return s.substring(st, en+1);
+        return ans;
     }
 }
