@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0179-largest-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0132-palindrome-partitioning-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [0179-largest-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
