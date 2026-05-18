@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
@@ -737,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
