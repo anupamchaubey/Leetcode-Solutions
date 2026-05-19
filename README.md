@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0312-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0547-number-of-provinces](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
