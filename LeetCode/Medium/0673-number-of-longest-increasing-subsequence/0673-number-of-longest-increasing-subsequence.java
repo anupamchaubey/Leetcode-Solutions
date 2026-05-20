@@ -16,7 +16,7 @@ class Solution {
                         cnt[i]=cnt[prev];
                         dp[i]=dp[prev]+1;
                     }else if(dp[prev]+1==dp[i]){
-                        cnt[i]++;
+                        cnt[i]+=cnt[prev];
                     }
                 }
             }
