@@ -3,22 +3,36 @@ class Solution {
 
     public int lengthOfLIS(int[] nums) {
 
-        dp = new int[nums.length + 1][nums.length + 1];
+        // dp = new int[nums.length + 1][nums.length + 1];
 
-        int n = nums.length;
+        // int n = nums.length;
 
-        for(int idx = n-1; idx >= 0; idx--){
-            for (int prev = idx; prev >= -1; prev--) {
-                int ans = 0;
-                if (prev == -1 || nums[idx] > nums[prev]) {
-                    ans = 1 + dp[idx+1][idx+1];
-                }
-                ans = Math.max(ans, dp[idx+1][prev+1]);
-                dp[idx][prev+1]=ans;
-            }
-        }
-        return dp[0][0];
+        // for(int idx = n-1; idx >= 0; idx--){
+        //     for (int prev = idx; prev >= -1; prev--) {
+        //         int ans = 0;
+        //         if (prev == -1 || nums[idx] > nums[prev]) {
+        //             ans = 1 + dp[idx+1][idx+1];
+        //         }
+        //         ans = Math.max(ans, dp[idx+1][prev+1]);
+        //         dp[idx][prev+1]=ans;
+        //     }
+        // }
+        // return dp[0][0];
         // return rec(nums, 0, -1);
+
+        int n=nums.length;
+        int[] dp=new int[n];
+        int max=1;
+        for(int i=0;i<n;i++){
+            dp[i]=1;
+            for(int prev=0;prev<i;prev++){
+                if(nums[prev]<nums[i]){
+                    dp[i]=Math.max(dp[prev]+1, dp[i]);
+                }
+            }
+            max=Math.max(max, dp[i]);
+        }
+        return max;
     }
 
     int rec(int[] nums, int idx, int prev) {
