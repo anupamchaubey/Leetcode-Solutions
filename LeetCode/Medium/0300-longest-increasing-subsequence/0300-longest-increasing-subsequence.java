@@ -4,6 +4,7 @@ class Solution {
         
         dp=new int[nums.length][nums.length];
         for(int[] d: dp)Arrays.fill(d, Integer.MAX_VALUE);
+
         return rec(nums, 0, -1);
     }
     int rec(int[] nums, int idx, int prev){
