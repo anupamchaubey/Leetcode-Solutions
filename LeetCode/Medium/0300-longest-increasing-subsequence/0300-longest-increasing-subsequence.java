@@ -1,6 +1,5 @@
 class Solution {
-    int[][] dp;
-
+    // int[][] dp;
     public int lengthOfLIS(int[] nums) {
 
         // dp = new int[nums.length + 1][nums.length + 1];
@@ -20,35 +19,49 @@ class Solution {
         // return dp[0][0];
         // return rec(nums, 0, -1);
 
+        // int n=nums.length;
+        // int[] dp=new int[n];
+        
+        // int max=1;
+        // for(int i=0;i<n;i++){
+        //     dp[i]=1;
+        //     for(int prev=0;prev<i;prev++){
+        //         if(nums[prev]<nums[i]){
+        //             dp[i]=Math.max(dp[prev]+1, dp[i]);
+        //         }
+        //     }
+        //     max=Math.max(max, dp[i]);
+        // }
+        // return max;
+
         int n=nums.length;
-        int[] dp=new int[n];
+        int[] tails=new int[n];
+        Arrays.fill(tails, Integer.MAX_VALUE);
         int max=1;
         for(int i=0;i<n;i++){
-            dp[i]=1;
-            for(int prev=0;prev<i;prev++){
-                if(nums[prev]<nums[i]){
-                    dp[i]=Math.max(dp[prev]+1, dp[i]);
-                }
-            }
-            max=Math.max(max, dp[i]);
+            int num=nums[i];
+            int p=i;
+            while(p>=0 && num<=tails[p])p--;
+            tails[p+1]=num;
+            max=Math.max(max, p+2);
         }
         return max;
     }
 
-    int rec(int[] nums, int idx, int prev) {
-        if (idx == nums.length)
-            return 0;
-        if (prev != -1 && dp[idx][prev] != Integer.MAX_VALUE) {
-            return dp[idx][prev];
-        }
-        int ans = 0;
-        if (prev == -1 || nums[idx] > nums[prev]) {
-            ans = 1 + rec(nums, idx + 1, idx);
-        }
-        ans = Math.max(ans, rec(nums, idx + 1, prev));
-        if (prev != -1) {
-            dp[idx][prev] = ans;
-        }
-        return ans;
-    }
+    // int rec(int[] nums, int idx, int prev) {
+    //     if (idx == nums.length)
+    //         return 0;
+    //     if (prev != -1 && dp[idx][prev] != Integer.MAX_VALUE) {
+    //         return dp[idx][prev];
+    //     }
+    //     int ans = 0;
+    //     if (prev == -1 || nums[idx] > nums[prev]) {
+    //         ans = 1 + rec(nums, idx + 1, idx);
+    //     }
+    //     ans = Math.max(ans, rec(nums, idx + 1, prev));
+    //     if (prev != -1) {
+    //         dp[idx][prev] = ans;
+    //     }
+    //     return ans;
+    // }
 }
