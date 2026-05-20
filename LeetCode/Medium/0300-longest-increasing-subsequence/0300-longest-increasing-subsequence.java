@@ -40,10 +40,18 @@ class Solution {
         int max=1;
         for(int i=0;i<n;i++){
             int num=nums[i];
-            int p=i;
-            while(p>=0 && num<=tails[p])p--;
-            tails[p+1]=num;
-            max=Math.max(max, p+2);
+            
+            int l=0, r=i;
+            while(l<=r){
+                int mid=(l+r)/2;
+                if(num<=tails[mid]){
+                    r=mid-1;
+                }else{
+                    l=mid+1;
+                }
+            }
+            tails[l]=num;
+            max=Math.max(max, l+1);
         }
         return max;
     }
