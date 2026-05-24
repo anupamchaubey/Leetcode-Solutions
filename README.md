@@ -1050,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0619-biggest-single-number](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
