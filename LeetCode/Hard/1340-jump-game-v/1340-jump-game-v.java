@@ -1,9 +1,9 @@
 class Solution {
     public int maxJumps(int[] arr, int d) {
         int max = 1;
-
+        int[] dp = new int[arr.length];
         for (int i = 0; i < arr.length; i++) {
-            int[] dp = new int[arr.length];
+            
             max = Math.max(max, rec(arr, d, i, dp));
         }
         return max;
