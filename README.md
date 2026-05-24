@@ -1058,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1251-average-selling-price](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1251-average-selling-price/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
 ## Doubly-Linked List
