@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [1871-jump-game-vii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [1871-jump-game-vii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [1871-jump-game-vii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
+| [1871-jump-game-vii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2381-shifting-letters-ii/) | Medium |
