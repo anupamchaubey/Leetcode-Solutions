@@ -1061,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1174-immediate-food-delivery-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1174-immediate-food-delivery-ii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1251-average-selling-price/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1484-group-sold-products-by-the-date/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
