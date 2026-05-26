@@ -1,7 +1,21 @@
 class Solution {
     public int numDistinct(String s, String t) {
-        Integer[][] dp = new Integer[s.length()][t.length()];
-        return rec(s, t, 0, 0, dp);
+        int[][] dp = new int[s.length() + 1][t.length() + 1];
+        for (int i = 0; i <= s.length(); i++) {
+            dp[i][t.length()] = 1;
+        }
+        for (int i = s.length() - 1; i >= 0; i--) {
+            for (int j = t.length() - 1; j >= 0; j--) {
+                int ans = 0;
+                if (s.charAt(i) == t.charAt(j)) {
+                    ans += dp[i + 1][j + 1];
+                }
+                ans += dp[i + 1][j];
+                dp[i][j] = ans;
+            }
+        }
+
+        return dp[0][0];
     }
 
     int rec(String s, String t, int i, int j, Integer[][] dp) {
