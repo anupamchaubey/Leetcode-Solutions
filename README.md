@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
@@ -899,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
+| [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
