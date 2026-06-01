@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1642-furthest-building-you-can-reach](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1642-furthest-building-you-can-reach/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
