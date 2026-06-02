@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
@@ -959,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
@@ -1024,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
@@ -1056,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 ## Database
 | Problem Name | Difficulty |
