@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2540-minimum-common-value](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -847,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
