@@ -1,32 +1,24 @@
 class Solution {
+    int p = 1000000007;
+
     public int sumSubarrayMins(int[] arr) {
+        int[] left = new int[arr.length];
+        int[] right = new int[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            int j = i + 1;
+            while (j < arr.length && arr[j] > arr[i])
+                j++;
+            right[i] = j;
+            j = i - 1;
+            while (j >= 0 && arr[j] >= arr[i])
+                j--;
+            left[i] = j;
+        }
         long sum = 0;
-        int p = 1000000007;
-        int n=arr.length;
-
-        int[] left=new int[n];
-        int[] right=new int[n];
-
-        Stack<Integer> st=new Stack<>();
-        for(int i=0;i<n;i++){
-            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
-                st.pop();
-            }
-            left[i]=(st.isEmpty())? i+1: i-st.peek();
-            st.push(i);
+        for (int i = 0; i < arr.length; i++) {
+            long x = (i - left[i]) * (right[i] - i);
+            sum = (sum + x * arr[i]) % p;
         }
-        st.clear();
-
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && arr[st.peek()]>arr[i]){
-                st.pop();
-            }
-            right[i]=(st.isEmpty())? n-i: st.peek()-i;
-            st.push(i);
-        }
-        for(int i=0;i<n;i++){
-            sum=(sum+(long)arr[i]*left[i]*right[i])%p;
-        }
-        return (int)sum;
+        return (int) sum;
     }
 }
