@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1473-paint-house-iii/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
