@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1937-maximum-number-of-points-with-cost/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1871-jump-game-vii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
