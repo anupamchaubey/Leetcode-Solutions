@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0918-maximum-sum-circular-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0980-unique-paths-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [0962-maximum-width-ramp](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
@@ -914,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -1010,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
