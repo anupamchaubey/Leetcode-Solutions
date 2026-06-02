@@ -1,5 +1,8 @@
 class Solution {
     public long subArrayRanges(int[] nums) {
+        
+        // similar to 907. Sum of Subarray Minimums
+
         int n = nums.length;
 
         int[] leftMin = new int[n];
