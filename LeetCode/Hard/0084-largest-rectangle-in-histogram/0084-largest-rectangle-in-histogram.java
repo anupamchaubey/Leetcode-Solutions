@@ -1,34 +1,35 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int[] r = new int[heights.length];
-        Deque<Integer> st = new ArrayDeque<>();
-        for (int i = heights.length - 1; i >= 0; i--) {
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
+        return histogram(heights);
+    }
+    int histogram(int[] nums){
+        int[] left=new int[nums.length];
+        int[] right=new int[nums.length];
+        Deque<Integer> st=new ArrayDeque<>();
+        for(int i=0;i<nums.length;i++){
+            while(!st.isEmpty() && nums[st.peek()]>=nums[i])st.pop();
+            if(st.isEmpty()){
+                left[i]=-1;
+            }else{
+                left[i]=st.peek();
             }
-            if (st.isEmpty()) {
-                r[i] = heights.length;
-            } else
-                r[i] = st.peek();
             st.push(i);
         }
-        st = new ArrayDeque<>();
-        int[] l = new int[heights.length];
-        for (int i = 0; i < heights.length; i++) {
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
+        st.clear();
+        for(int i=nums.length-1;i>=0;i--){
+            while(!st.isEmpty() && nums[st.peek()]>=nums[i])st.pop();
+            if(st.isEmpty()){
+                right[i]=nums.length;
+            }else{
+                right[i]=st.peek();
             }
-            if (st.isEmpty()) {
-                l[i] = -1;
-            } else
-                l[i] = st.peek();
             st.push(i);
         }
-        int max = 0;
-        for (int i = 0; i < heights.length; i++) {
-            int width = (i - l[i] - 1);
-            width += (r[i] - i);
-            max = Math.max(max, heights[i] * width);
+        st.clear();
+        int max=0;
+        for(int i=0;i<nums.length;i++){
+            int mul=(i-left[i])+(right[i]-i)-1;
+            max=Math.max(max, mul*nums[i]);
         }
         return max;
     }
