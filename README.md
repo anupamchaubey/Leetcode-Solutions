@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0221-maximal-square](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0279-perfect-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
+| [0221-maximal-square](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
