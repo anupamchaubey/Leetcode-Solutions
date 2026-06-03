@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -537,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -861,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2367-number-of-arithmetic-triplets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
