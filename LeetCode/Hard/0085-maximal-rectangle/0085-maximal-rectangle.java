@@ -1,4 +1,5 @@
 class Solution {
+    // just calculate histogram of each row, after calculating the length of the '1' till this row, and return the maximum.
     public int maximalRectangle(char[][] matrix) {
         int maxArea = 0;
         int m = matrix.length;
