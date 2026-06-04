@@ -6,39 +6,37 @@ class Solution {
         if (num.charAt(0) == '0')
             return "0";
 
-        Stack<Integer> st = new Stack<>();
-        int i = 0;
-        while (i < num.length()) {
-            if (st.isEmpty() || st.peek() <= num.charAt(i) - '0') {
-                st.push(num.charAt(i) - '0');
+        Deque<Character> st = new ArrayDeque<>();
+
+        for (int i = 0; i < num.length();) {
+            if (st.isEmpty() || st.peek() <= num.charAt(i)) {
+                st.push(num.charAt(i));
             } else {
-                while (!st.isEmpty() && st.peek() > num.charAt(i) - '0' && k > 0) {
+                while (!st.isEmpty() && st.peek() > num.charAt(i) && k > 0) {
                     st.pop();
                     k--;
                 }
-                st.push(num.charAt(i) - '0');
+                st.push(num.charAt(i));
             }
             i++;
         }
         while (k-- > 0) {
             st.pop();
         }
-
         StringBuilder sb = new StringBuilder();
-
         while (!st.isEmpty()) {
             sb.append(st.pop());
         }
         sb.reverse();
-        
-
         int p = 0;
-        while (p<sb.length() && sb.charAt(p) == '0')
+
+        while (p < sb.length() && sb.charAt(p) == '0')
             p++;
 
         if (sb.toString().substring(p).equals(""))
             return "0";
-        
+
         return sb.toString().substring(p);
+
     }
 }
