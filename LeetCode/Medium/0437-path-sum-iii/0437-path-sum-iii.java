@@ -14,25 +14,30 @@
  * }
  */
 class Solution {
-    int count=0;
-    public int pathSum(TreeNode root, int target) {
-        inorder(root, target);
+    int count = 0;
+
+    public int pathSum(TreeNode root, int targetSum) {
+        inorder(root, targetSum);
         return count;
     }
-    void inorder(TreeNode root, long target){
-        if(root==null)return;
+
+    void inorder(TreeNode root, long target) {
+        if (root == null)
+            return;
         inorder(root.left, target);
         dfs(root, target);
         inorder(root.right, target);
     }
-    void dfs(TreeNode root, long target){
-        if(root==null){
+
+    void dfs(TreeNode root, long target) {
+
+        if (root == null)
             return;
-        }
-        if(target-root.val==0){
+
+        if (target - root.val == 0)
             count++;
-        }
-        dfs(root.left, target-root.val);
-        dfs(root.right, target-root.val);
+
+        dfs(root.left, target - root.val);
+        dfs(root.right, target - root.val);
     }
 }
