@@ -1,16 +1,16 @@
 class Solution {
     public int numberOfSubstrings(String s) {
         int count = 0;
-        HashMap<Character, Integer> hm=new HashMap<>();
+        int[] last={-1, -1, -1};
 
         for (int i = 0; i < s.length(); i++) {
-            hm.put(s.charAt(i), i);
+            last[s.charAt(i)-'a']=i;
 
-            if (hm.containsKey('a') && hm.containsKey('b') && hm.containsKey('c')){
-                int min=Math.min(hm.get('a'), Math.min(hm.get('b'), hm.get('c')));
-                count+=min+1;
+            if (last[0]!=-1 && last[1]!=-1 && last[2]!=-1) {
+                int min = Math.min(last[0], Math.min(last[1], last[2]));
+                count += min + 1;
             }
-                    
+
         }
         return count;
     }
