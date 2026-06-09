@@ -1,6 +1,6 @@
 class Solution {
     public long maxTotal(int[] nums, String s) {
-        if (s.equals(""))
+        if (s.isBlank())
             return 0;
         long ans = 0;
         boolean[] used = new boolean[s.length()];
@@ -12,9 +12,9 @@ class Solution {
         int i = 1;
         while (i < s.length()) {
             if (s.charAt(i) == '1') {
-                if(used[i-1]){
-                    ans+=nums[i];
-                    used[i]=true;
+                if (used[i - 1]) {
+                    ans += nums[i];
+                    used[i] = true;
                     i++;
                     continue;
                 }
@@ -23,7 +23,7 @@ class Solution {
                     if (min == -1 || nums[i - 1] < nums[min]) {
                         min = i - 1;
                     }
-                    used[i-1]=true;
+                    used[i - 1] = true;
                     ans += nums[i - 1];
                     i++;
                 }
@@ -31,9 +31,9 @@ class Solution {
                 if (min == -1 || nums[i - 1] < nums[min]) {
                     min = i - 1;
                 }
-                used[i-1]=true;
+                used[i - 1] = true;
                 ans -= nums[min];
-                used[min]=false;
+                used[min] = false;
             }
             i++;
         }
