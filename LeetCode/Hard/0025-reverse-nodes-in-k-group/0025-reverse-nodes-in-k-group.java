@@ -19,15 +19,17 @@ class Solution {
             temp = temp.next;
         }
 
-        ListNode prev = null;
-        ListNode curr = head;
-        while (curr != temp) {
-            ListNode next1 = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next1;
-        }
+        ListNode prev = reverse(head, null, temp);
         head.next = reverseKGroup(temp, k);
         return prev;
+    }
+
+    ListNode reverse(ListNode curr, ListNode prev, ListNode stop) {
+        if (curr == stop)
+            return prev;
+        ListNode next = curr.next;
+
+        curr.next = prev;
+        return reverse(next, curr, stop);
     }
 }
