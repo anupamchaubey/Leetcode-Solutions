@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0650-2-keys-keyboard/) | Medium |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
