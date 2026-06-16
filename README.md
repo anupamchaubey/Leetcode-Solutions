@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -1101,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
