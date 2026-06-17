@@ -1,19 +1,16 @@
 class Solution {
+    // Boyer-Moore Voting Algorithm
     public int majorityElement(int[] nums) {
-        HashSet<Integer> hs= new HashSet<>();
+        
+        int candidate=nums[0];
+        int count=0;
 
-        int n=nums.length;
-        for(int i=0;i<n;i++){
-
-            int x=nums[i];
-            if(hs.contains(x))continue;
-            int cnt=0;
-            for(int j=0;j<n;j++){
-                if(nums[j]==x)cnt++;
-                if(cnt>(n/2))return x;
-            }
-            hs.add(x);
+        for(int x:nums){
+            if(count==0)candidate=x;
+            if(x==candidate)count++;
+            else count--;
         }
-        return -1;
+
+        return candidate;
     }
 }
