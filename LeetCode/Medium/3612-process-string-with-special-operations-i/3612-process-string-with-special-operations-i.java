@@ -7,19 +7,13 @@ class Solution {
                     sb.setLength(sb.length() - 1);
                 }
             } else if (ch == '#') {
-                sb.append(sb.toString());
+                sb.append(sb);
             } else if (ch == '%') {
-                sb = reverse(sb.toString());
+                sb.reverse();
             } else {
                 sb.append(ch);
             }
         }
         return sb.toString();
-    }
-
-    StringBuilder reverse(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        sb.reverse();
-        return sb;
     }
 }
