@@ -24,10 +24,10 @@ class Solution {
             adj.get(u).add(new Pair(v, w, 1));
         }
         int[][] dist = new int[n][k + 1];
-        for(int[] arr: dist){
+        for (int[] arr : dist) {
             Arrays.fill(arr, Integer.MAX_VALUE);
         }
-        dist[0][1]=0;
+        dist[0][1] = 0;
         PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.wt, b.wt));
 
         pq.offer(new Pair(0, 0, 1));
@@ -38,27 +38,28 @@ class Solution {
             int pw = p.wt;
             int pc = p.ch;
 
-            if(pw>dist[pu][pc])continue;
+            if (pw > dist[pu][pc])
+                continue;
 
             for (Pair vp : adj.get(pu)) {
-                int node=vp.to;
-                int nodewt=vp.wt;
-                
+                int node = vp.to;
+                int nodewt = vp.wt;
 
-                int nextch=(labels.charAt(node)==labels.charAt(pu))? pc+1: 1;
+                int nextch = (labels.charAt(node) == labels.charAt(pu)) ? pc + 1 : 1;
 
-                if(nextch>k)continue;
+                if (nextch > k)
+                    continue;
 
-                if(pw+nodewt<dist[node][nextch]){
-                    dist[node][nextch]=pw+nodewt;
+                if (pw + nodewt < dist[node][nextch]) {
+                    dist[node][nextch] = pw + nodewt;
                     pq.offer(new Pair(node, dist[node][nextch], nextch));
                 }
             }
         }
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<=k;i++){
-            min=Math.min(min, dist[n-1][i]);
+        int min = Integer.MAX_VALUE;
+        for (int i = 1; i <= k; i++) {
+            min = Math.min(min, dist[n - 1][i]);
         }
-        return min==Integer.MAX_VALUE? -1: min;
+        return min == Integer.MAX_VALUE ? -1 : min;
     }
 }
