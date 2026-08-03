@@ -1,0 +1,21 @@
+class Solution {
+    public int countRatioSubarrays(int[] nums, int a, int b) {
+        double val = (double) a / b;
+        int c = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int x = 0, y = 0;
+            for (int j = i; j < nums.length; j++) {
+                if (nums[j] % 2 == 0)
+                    x++;
+                else
+                    y++;
+                if (y > 0) {
+                    double ratio = (double) x / y;
+                    if (ratio <= val)
+                        c++;
+                }
+            }
+        }
+        return c;
+    }
+}
