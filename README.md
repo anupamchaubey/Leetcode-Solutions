@@ -1194,4 +1194,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
