@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
@@ -1005,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 ## Bitmask
@@ -1222,4 +1224,24 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+## Suffix Automaton
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+## Suffix Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
 <!---LeetCode Topics End-->
