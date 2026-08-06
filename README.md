@@ -1248,4 +1248,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
