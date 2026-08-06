@@ -1218,4 +1218,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
