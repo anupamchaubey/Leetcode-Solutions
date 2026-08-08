@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0433-minimum-genetic-mutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
@@ -1253,11 +1256,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
