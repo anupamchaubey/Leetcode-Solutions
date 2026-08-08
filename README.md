@@ -1256,6 +1256,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -1265,4 +1266,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
