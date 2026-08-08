@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1035-uncrossed-lines](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1046-last-stone-weight](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1035-uncrossed-lines](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -1252,8 +1254,10 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
