@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1109-corporate-flight-bookings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0650-2-keys-keyboard/) | Medium |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -960,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1109-corporate-flight-bookings/) | Medium |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1871-jump-game-vii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -1232,10 +1237,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
