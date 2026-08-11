@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2869-minimum-operations-to-collect-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2845-count-of-interesting-subarrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2845-count-of-interesting-subarrays/) | Medium |
 | [2869-minimum-operations-to-collect-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
