@@ -1,22 +1,23 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        return atmostK(s, k);
+        return atmost(s, k);
     }
+    int atmost(String s, int k){
+        int[] freq=new int[26];
+        int maxfreq=0;
+        int max=0;
+        int left=0;
+        for(int i=0;i<s.length();i++){
+            freq[s.charAt(i)-'A']++;
+            maxfreq=Math.max(freq[s.charAt(i)-'A'], maxfreq);
 
-    int atmostK(String s, int k) {
-        HashMap<Character, Integer> hm = new HashMap<>();
-        int l = 0;
-        int maxfreq = 0;
-        int maxLen = 0;
-        for (int i = 0; i < s.length(); i++) {
-            hm.put(s.charAt(i), hm.getOrDefault(s.charAt(i), 0) + 1);
-            maxfreq = Math.max(maxfreq, hm.get(s.charAt(i)));
-            while (i - l + 1 - maxfreq > k) {
-                hm.put(s.charAt(l), Math.max(0, hm.get(s.charAt(l)) - 1));
-                l++;
+            while((i-left+1)-maxfreq>k){
+                freq[s.charAt(left)-'A']--;
+                left++;
             }
-            maxLen = Math.max(maxLen, i - l + 1);
+            for(int x: freq)maxfreq=Math.max(maxfreq, x);
+            max=Math.max(max, i-left+1);
         }
-        return maxLen;
+        return max;
     }
 }
