@@ -1270,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
