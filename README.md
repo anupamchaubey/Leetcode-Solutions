@@ -1325,4 +1325,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
