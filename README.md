@@ -1342,4 +1342,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
