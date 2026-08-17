@@ -12,9 +12,11 @@ class Solution {
         Stack<Double> st = new Stack<>();//stores time
         for (int i = 0; i < position.length; i++) {
             double t = (double) (target - cars[i][0]) / cars[i][1];
-            if (st.isEmpty() || t > st.peek()) {
+            if (!st.isEmpty() && t <= st.peek()) {
+                continue;
+            } else
                 st.push(t);
-            }
+
         }
         return st.size();
     }
