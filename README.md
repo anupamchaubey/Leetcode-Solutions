@@ -1321,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
