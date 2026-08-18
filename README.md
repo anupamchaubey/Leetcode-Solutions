@@ -946,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -1001,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
