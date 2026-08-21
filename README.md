@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -932,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2869-minimum-operations-to-collect-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2869-minimum-operations-to-collect-elements/) | Easy |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
