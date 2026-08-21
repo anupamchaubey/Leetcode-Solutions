@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
