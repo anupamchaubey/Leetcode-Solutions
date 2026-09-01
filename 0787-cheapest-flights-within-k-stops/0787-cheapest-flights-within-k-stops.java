@@ -23,7 +23,7 @@ class Solution {
         for (int[] d : dist)
             Arrays.fill(d, Integer.MAX_VALUE);
         dist[src][0] = 0;
-        Queue<int[]> q = new LinkedList<>();// city, time, stops
+        PriorityQueue<int[]> q = new PriorityQueue<>((a, b) -> Integer.compare(a[1], b[1]));// city, time, stops
         q.offer(new int[] { src, 0, 0 });
         while (!q.isEmpty()) {
             int[] poll = q.poll();
