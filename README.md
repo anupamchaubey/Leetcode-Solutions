@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -1026,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2381-shifting-letters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2381-shifting-letters-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2845-count-of-interesting-subarrays](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2845-count-of-interesting-subarrays/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
