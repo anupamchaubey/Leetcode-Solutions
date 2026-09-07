@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0879-profitable-schemes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1035-uncrossed-lines](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1035-uncrossed-lines/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0839-similar-string-groups](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0839-similar-string-groups/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
