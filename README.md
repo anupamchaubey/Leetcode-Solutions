@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1473-paint-house-iii/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -1085,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
@@ -1229,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2365-task-scheduler-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
