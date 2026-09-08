@@ -1,10 +1,8 @@
 class Solution {
     public int countCommas(int n) {
-        int cnt = 0;
-        for (int i = 1000; i <= n; i++) {
-            String s = i + "";
-            cnt += ((s.length() + 2) / 3) - 1;
-        }
-        return cnt;
+        if (n < 1000)
+            return 0;
+        else
+            return n - 999;
     }
 }
