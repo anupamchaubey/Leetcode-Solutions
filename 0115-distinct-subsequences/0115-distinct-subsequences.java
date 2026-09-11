@@ -1,24 +1,19 @@
 class Solution {
-    Integer[][] dp;
-
     public int numDistinct(String s, String t) {
-        dp = new Integer[s.length()][t.length()];
-        return rec(s, t, 0, 0);
-    }
-
-    int rec(String s, String t, int i, int j) {
-        if (j == t.length())
-            return 1;
-        else if (i == s.length())
-            return 0;
-        if (dp[i][j] != null)
-            return dp[i][j];
-        int count = 0;
-        if (s.charAt(i) == t.charAt(j)) {
-            count = rec(s, t, i + 1, j + 1);
-
+        int[][] dp = new int[s.length() + 1][t.length() + 1];
+        for (int i = 0; i <= s.length(); i++) {
+            dp[i][0] = 1;
         }
-        count += rec(s, t, i + 1, j);
-        return dp[i][j] = count;
+        for (int i = 1; i < dp.length; i++) {
+            for (int j = 1; j < dp[0].length; j++) {
+                if (s.charAt(i - 1) == t.charAt(j - 1)) {
+                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
+                } else {
+                    dp[i][j] = dp[i - 1][j];
+                }
+            }
+        }
+        return dp[s.length()][t.length()];
     }
+
 }
