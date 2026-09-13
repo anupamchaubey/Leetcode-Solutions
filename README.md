@@ -1418,4 +1418,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
