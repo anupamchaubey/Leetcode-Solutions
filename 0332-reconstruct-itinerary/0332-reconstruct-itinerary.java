@@ -1,3 +1,6 @@
+
+// Hierholzer's Algorithm
+
 class Solution {
     List<String> ls;
     HashMap<String, PriorityQueue<String>> hm;
@@ -20,6 +23,6 @@ class Solution {
         while (pq != null && !pq.isEmpty()) {
             dfs(pq.poll());
         }
-        ls.addFirst(u);
+        ls.addFirst(u);// main thing here
     }
 }
