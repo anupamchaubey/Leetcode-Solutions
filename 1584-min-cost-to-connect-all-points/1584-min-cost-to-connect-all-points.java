@@ -1,3 +1,6 @@
+
+// Minimum Spanning Tree- Kruskal's Algorithm
+
 class Solution {
     int[] parent;
     int[] rank;
