@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0740-delete-and-earn](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0839-similar-string-groups](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0839-similar-string-groups/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0741-cherry-pickup](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0980-unique-paths-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -576,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0354-russian-doll-envelopes/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -834,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -1140,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0685-redundant-connection-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0839-similar-string-groups](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0886-possible-bipartition/) | Medium |
@@ -1171,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
@@ -1335,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1140-stone-game-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -1429,6 +1437,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
