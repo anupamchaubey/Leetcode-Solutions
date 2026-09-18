@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1642-furthest-building-you-can-reach/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1202-smallest-string-with-swaps/) | Medium |
 | [1340-jump-game-v](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -738,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
