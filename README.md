@@ -1461,6 +1461,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
