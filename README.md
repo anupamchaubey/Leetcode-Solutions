@@ -800,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -851,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
@@ -959,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -1390,6 +1393,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
 ## Suffix Automaton
 | Problem Name | Difficulty |
@@ -1501,4 +1505,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
