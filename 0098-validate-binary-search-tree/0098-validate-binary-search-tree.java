@@ -18,14 +18,14 @@ class Solution {
         return valid(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    // here we will take ranges
-    boolean valid(TreeNode root, long l, long r) {
+    boolean valid(TreeNode root, long min, long max) {
         if (root == null)
             return true;
-        if (root.val < l || root.val > r)
+        if (root.val <= min || root.val >= max)
             return false;
-        boolean left = valid(root.left, l, (long) root.val - 1);
-        boolean right = valid(root.right, (long) root.val + 1, r);
-        return left && right;
+        boolean left = valid(root.left, min, root.val);
+        boolean right = valid(root.right, root.val, max);
+
+        return left & right;
     }
 }
