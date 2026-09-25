@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3498-reverse-degree-of-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
+| [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
 ## Binary Search
@@ -1218,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1642-furthest-building-you-can-reach/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
