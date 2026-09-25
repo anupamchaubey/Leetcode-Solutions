@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 | [0282-expression-add-operators](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0282-expression-add-operators/) | Hard |
+| [0491-non-decreasing-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0460-lfu-cache](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
+| [0491-non-decreasing-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
@@ -990,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0980-unique-paths-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0980-unique-paths-iii/) | Hard |
