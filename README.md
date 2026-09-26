@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
