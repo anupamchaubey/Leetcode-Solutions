@@ -1,26 +1,28 @@
 class Solution {
-    public int maxConsecutiveAnswers(String s, int k) {
-        int trueFreq = 0, falseFreq = 0;
+    public int maxConsecutiveAnswers(String answerKey, int k) {
+        return atMost(answerKey, k);
+    }
+
+    int atMost(String s, int k) {
+        int ans = 0;
         int maxFreq = 0;
+        int tr = 0, fa = 0;
         int l = 0;
-        int maxLen = 0;
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == 'T')
-                trueFreq++;
+                tr++;
             else
-                falseFreq++;
-            maxFreq = Math.max(trueFreq, falseFreq);
-
-            if (i - l + 1 - maxFreq > k) {
+                fa++;
+            maxFreq = Math.max(tr, fa);
+            while (i - l + 1 - maxFreq > k) {
                 if (s.charAt(l) == 'T')
-                    trueFreq--;
+                    tr--;
                 else
-                    falseFreq--;
+                    fa--;
                 l++;
             }
-
-            maxLen = Math.max(maxLen, i - l + 1);
+            ans = Math.max(ans, i - l + 1);
         }
-        return maxLen;
+        return ans;
     }
 }
