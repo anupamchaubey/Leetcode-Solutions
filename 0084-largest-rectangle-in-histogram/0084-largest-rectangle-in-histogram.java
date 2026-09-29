@@ -27,7 +27,6 @@ class Solution {
         int max = 0;
         for (int i = 0; i < heights.length; i++) {
             int val = (r[i] - l[i] - 1) * heights[i];
-            System.out.println(r[i] + "  " + l[i] + "  " + heights[i]);
             max = Math.max(max, val);
         }
         return max;
