@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [0068-text-justification](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0068-text-justification](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -1302,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0068-text-justification](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1094-car-pooling](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
