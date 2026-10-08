@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
@@ -1156,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1496,6 +1498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
