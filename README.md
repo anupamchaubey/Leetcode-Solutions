@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0735-asteroid-collision](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0705-design-hashset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0740-delete-and-earn](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0767-reorganize-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0815-bus-routes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
@@ -1034,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0460-lfu-cache](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0705-design-hashset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Binary Search Tree
@@ -1141,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0705-design-hashset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -1438,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
 ## Suffix Automaton
 | Problem Name | Difficulty |
