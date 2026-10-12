@@ -1562,4 +1562,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
