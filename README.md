@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
