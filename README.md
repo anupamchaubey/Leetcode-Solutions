@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2409-count-days-spent-together](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
