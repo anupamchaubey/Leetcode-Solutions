@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3665-twisted-mirror-path-count](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
