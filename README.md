@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
