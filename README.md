@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
