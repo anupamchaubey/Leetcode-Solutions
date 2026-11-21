@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3447-assign-elements-to-groups-with-constraints/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
@@ -823,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3447-assign-elements-to-groups-with-constraints/) | Medium |
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -873,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -941,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
