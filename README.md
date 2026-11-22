@@ -599,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
