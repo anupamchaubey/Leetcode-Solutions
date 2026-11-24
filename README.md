@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3447-assign-elements-to-groups-with-constraints/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2409-count-days-spent-together](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1435,11 +1438,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
