@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3597-partition-string](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3597-partition-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1476,10 +1479,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Suffix Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1487,6 +1492,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0705-design-hashset](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1316-distinct-echo-substrings](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/1316-distinct-echo-substrings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Suffix Automaton
 | Problem Name | Difficulty |
 | ------- | ------- |
