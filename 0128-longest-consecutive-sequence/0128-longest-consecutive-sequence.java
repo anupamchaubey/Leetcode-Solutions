@@ -5,6 +5,8 @@ class Solution {
             hs.add(x);
         int max = 0;
         for (int x : nums) {
+            if (!hs.contains(x))
+                continue;
             hs.remove(x);
             int c = 1;
             int num = x + 1;
