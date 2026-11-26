@@ -16,7 +16,7 @@ class Solution {
         }
         List<List<String>> ans = new ArrayList<>();
         for (List<String> ls : hm.values()) {
-            ans.add(new ArrayList<>(ls));
+            ans.add(ls);
         }
         return ans;
     }
