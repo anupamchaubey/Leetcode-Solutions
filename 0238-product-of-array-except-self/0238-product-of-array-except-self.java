@@ -1,21 +1,17 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        // in O(1) extra space complexity
-        int[] output = new int[nums.length];
-
-        int left = 1;
+        int[] arr = new int[nums.length];
+        Arrays.fill(arr, 1);
+        int curr = 1;
         for (int i = 0; i < nums.length; i++) {
-            output[i] = 1;
-            output[i] = left;
-            left *= nums[i];
+            arr[i] *= curr;
+            curr *= nums[i];
         }
-
-        int right = 1;
+        curr = 1;
         for (int i = nums.length - 1; i >= 0; i--) {
-            output[i] *= right;
-            right *= nums[i];
+            arr[i] *= curr;
+            curr *= nums[i];
         }
-
-        return output;
+        return arr;
     }
 }
