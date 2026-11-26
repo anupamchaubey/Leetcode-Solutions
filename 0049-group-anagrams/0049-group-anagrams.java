@@ -14,10 +14,7 @@ class Solution {
             hm.putIfAbsent(key, new ArrayList<>());
             hm.get(key).add(str);
         }
-        List<List<String>> ans = new ArrayList<>();
-        for (List<String> ls : hm.values()) {
-            ans.add(ls);
-        }
+        List<List<String>> ans = new ArrayList<>(hm.values());
         return ans;
     }
 }
