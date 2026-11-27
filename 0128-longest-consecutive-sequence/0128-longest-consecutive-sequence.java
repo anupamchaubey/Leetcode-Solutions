@@ -5,20 +5,13 @@ class Solution {
             hs.add(x);
         int max = 0;
         for (int x : nums) {
-            if (!hs.contains(x))
+            if (hs.contains(x - 1))
                 continue;
-            hs.remove(x);
-            int c = 1;
-            int num = x + 1;
+            int c = 0;
+            int num = x;
             while (hs.contains(num)) {
                 hs.remove(num);
                 num++;
-                c++;
-            }
-            num = x - 1;
-            while (hs.contains(num)) {
-                hs.remove(num);
-                num--;
                 c++;
             }
             max = Math.max(max, c);
