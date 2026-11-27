@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3926-count-valid-word-occurrences/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3781-maximum-score-after-binary-swaps](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3781-maximum-score-after-binary-swaps/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anupamchaubey/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
